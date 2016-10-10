@@ -1,0 +1,1 @@
+<p>The second point means that two different objects can have the same <i>hash code</i> so two objects with the same <i>hash code</i> are <u>not necessarily the same</u>!</p>

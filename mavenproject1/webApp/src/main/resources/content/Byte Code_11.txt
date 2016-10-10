@@ -1,0 +1,1 @@
+<p>Compile it and then move Foo.java to another directory or delete it if you wish. What can we do with javap and Foo.class&nbsp;?</p>

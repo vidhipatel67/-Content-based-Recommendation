@@ -1,0 +1,1 @@
+<p>ArrayList defines following methods:</p>

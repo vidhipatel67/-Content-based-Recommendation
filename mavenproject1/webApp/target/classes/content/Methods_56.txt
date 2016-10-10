@@ -1,0 +1,1 @@
+<p>The method is supposed to return a <code><a href="/wiki/Java_Programming/Keywords/int" title="Java Programming/Keywords/int"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">int</font></a></code> but at line 4, it returns <code>c</code>, which is a String.</p>

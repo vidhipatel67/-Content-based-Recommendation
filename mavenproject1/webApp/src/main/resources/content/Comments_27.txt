@@ -1,0 +1,1 @@
+<p>and is lexically equivalent to</p>

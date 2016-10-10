@@ -1,0 +1,1 @@
+<p>Java is a strongly typed language, so a field in a class may be typed like this:</p>

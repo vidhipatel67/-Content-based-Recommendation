@@ -1,0 +1,1 @@
+<p>Because the initCause method is public, it allows a cause to be associated with any throwable, even a "legacy throwable" whose implementation predates the addition of the exception chaining mechanism to Throwable. For example:</p>

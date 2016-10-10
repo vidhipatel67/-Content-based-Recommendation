@@ -1,0 +1,1 @@
+<p>The <code>Math.<b>exp</b>(double)</code> method, a special case of <code>pow</code>, returns <i>e</i> to the power of the parameter. In addition, <code>double Math.<b>expm1</b>(double)</code> returns (<i>e</i><sup>x</sup> - 1). Both of these methods are more accurate and convenient in these special cases.</p>

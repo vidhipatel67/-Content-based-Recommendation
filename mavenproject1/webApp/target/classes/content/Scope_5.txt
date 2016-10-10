@@ -1,0 +1,1 @@
+<p>A method parameter is visible inside of the entire method but not visible outside the method.</p>

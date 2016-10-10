@@ -1,0 +1,1 @@
+<p>In addition to primitive types, Java supports <i>reference type</i>. A reference type is a Java data type which is defined by a Java class or interface. Reference types derive this name because such values <i>refer to</i> an object or contain a <i>reference to</i> an object. The idea is similar to pointers in other languages like C.</p>

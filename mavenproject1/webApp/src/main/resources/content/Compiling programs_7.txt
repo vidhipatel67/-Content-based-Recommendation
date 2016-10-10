@@ -1,0 +1,4 @@
+<p>If you obtain another message ending by <code>1 error</code> or <code>... errors</code>, there may be a mistake in your code. Are you sure all words are spelled correctly and with the exact case as shown? Are there semicolons and brackets in the appropriate spot? Are you missing a quote? Usually, modern IDEs would try coloring the entire source as a quote in this case.</p>
+<p>If your computer emits beeps, then you may have illegal characters in your <code>HelloWorld.java</code>.</p>
+<p>If no <code>HelloWorld.class</code> file has been created in the same folder, then you've got an error. Are you launching the <code>javac</code> program correctly?</p>
+<p>If you obtain an error message like <code>Exception in thread "main" java.lang.NoSuchMethodError: main</code>, your source file may have been badly written.</p>

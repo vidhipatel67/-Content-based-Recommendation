@@ -1,0 +1,1 @@
+<p>Within the platform the main implementations are found in two areas:</p>

@@ -1,0 +1,1 @@
+<p>On the right hand side a String object is created represented by the string literal. Its object reference is assigned to the <code>str</code> variable.</p>

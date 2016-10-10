@@ -1,0 +1,1 @@
+<p>The following constructor builds an array list that is initialized with the elements of the collection c.</p>

@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/goto" title="Java Programming/Keywords/goto"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">goto</font></a></code> is a <b>reserved keyword</b>, presently not being used.</p>

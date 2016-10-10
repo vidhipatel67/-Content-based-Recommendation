@@ -1,0 +1,1 @@
+<p>Multiple bits held together can hold multiple permutations — 2 bits can hold 4 possible values, 3 can hold 8, and so on. For instance, the maximum number 8 bits can hold (<code>11111111</code> in binary) is <code>255</code> in the decimal system. So, the numbers from 0 to 255 can fit within 8 bits.</p>

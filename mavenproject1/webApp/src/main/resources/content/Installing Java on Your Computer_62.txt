@@ -1,0 +1,1 @@
+<p><b>To do:</b><br> Add a section describing the installation of Java onto Solaris machines. Incorporate some of the information provided in the commented section of this page.</p>

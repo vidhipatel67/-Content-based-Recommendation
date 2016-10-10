@@ -1,0 +1,1 @@
+<p>Every field or method that is public can be directly called by a client class so this class would return a compile error if the field or the method has a new name.</p>

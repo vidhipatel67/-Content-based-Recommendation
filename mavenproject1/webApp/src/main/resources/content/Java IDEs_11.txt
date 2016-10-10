@@ -1,0 +1,1 @@
+<p>JCreator is a simple and lightweight JAVA IDE from XINOX Software. It runs only on Windows platforms. It is very easy to install and starts quickly, as it is a native application. This is a good choice for beginners.</p>

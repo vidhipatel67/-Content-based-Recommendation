@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/const" title="Java Programming/Keywords/const"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">const</font></a></code> is a <b>reserved keyword</b>, presently not being used.</p>

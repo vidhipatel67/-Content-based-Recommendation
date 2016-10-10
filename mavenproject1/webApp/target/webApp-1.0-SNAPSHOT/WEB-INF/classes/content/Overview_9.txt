@@ -1,0 +1,1 @@
+<p>Save this file on a folder. As the <code>&lt;applet/&gt;</code> markup is calling a Java class called <code>HelloWorld</code>, our class should be called <code>HelloWorld.java</code>:</p>

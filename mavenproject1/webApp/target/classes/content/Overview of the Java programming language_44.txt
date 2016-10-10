@@ -1,0 +1,1 @@
+<p>The optional exception handling in the Java predecessors leads the developers not to care about the error handling. As a consequence, unexpected errors often occur. Java forces the developers to handle exceptions. The programmer must handle exception or declare that the user must handle it. Someone must handle it.</p>

@@ -1,0 +1,1 @@
+<p>Always put the string literal first:</p>

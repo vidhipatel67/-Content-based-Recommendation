@@ -1,0 +1,1 @@
+<p>A good approach is to learn how to deal with <code>NullPointerException</code>s first, and become competent with that. These suggestions will help you to cause less <code>NullPointerException</code>s, but they don't replace the need to know about <code>NullPointerException</code>s.</p>

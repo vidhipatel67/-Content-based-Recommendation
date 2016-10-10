@@ -1,0 +1,1 @@
+<p>Using the Iterator the <code>orderedCustomers</code> collection can be iterated in order of sorted by <code>name</code>.</p>

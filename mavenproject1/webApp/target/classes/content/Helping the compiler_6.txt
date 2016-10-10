@@ -1,0 +1,1 @@
+<p><code>@Override</code> flags that a method overrides a method in a superclass. If there is no overridden method, a compile error should occur. <a rel="nofollow" class="external autonumber" href="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/Override.html">[2]</a></p>

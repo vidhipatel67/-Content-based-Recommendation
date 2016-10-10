@@ -1,0 +1,1 @@
+<p>Since it is in the <code>java.lang</code> package, the <code>Math</code> class does not need to be imported. However, in programs extensively utilizing these functions, a static import can be used.</p>

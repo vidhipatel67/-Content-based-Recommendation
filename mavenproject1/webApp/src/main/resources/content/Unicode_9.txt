@@ -1,0 +1,1 @@
+<p>Such sequences represent the UTF-16 encoding of a Unicode character. For example, 'a' is equivalent to '\u0061'. This escape method does not support characters beyond U+FFFF or you have to make use of surrogate pairs.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>

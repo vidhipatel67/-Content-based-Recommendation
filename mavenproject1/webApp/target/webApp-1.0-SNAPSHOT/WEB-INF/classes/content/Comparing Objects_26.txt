@@ -1,0 +1,1 @@
+<p>A List can be sorted by the <code>Collections</code>' <code>sort</code> method.</p>

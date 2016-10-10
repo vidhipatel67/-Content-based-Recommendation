@@ -1,0 +1,1 @@
+<p>However, to make the font of element <code>a</code> plain, size 24 Times New Roman, and element <code>b</code> italicized, size 28 Times New Roman, the following code should be used:</p>

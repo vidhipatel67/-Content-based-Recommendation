@@ -1,0 +1,1 @@
+<p>A constructor is called to initialize an object immediately after the object has been allocated:</p>

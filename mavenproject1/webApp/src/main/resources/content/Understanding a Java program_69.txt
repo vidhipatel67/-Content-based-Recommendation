@@ -1,0 +1,1 @@
+<p>The <code>intValue()</code> method delegates its job to the <code>Integer.parseInt()</code> method. The main method could have called <code>Integer.parseInt()</code> directly; the <code>intValue()</code> method simply makes the <code>main()</code> method slightly more readable.</p>

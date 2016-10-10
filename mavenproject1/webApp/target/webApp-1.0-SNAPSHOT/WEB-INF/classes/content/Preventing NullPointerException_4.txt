@@ -1,0 +1,1 @@
+<p>Applications should throw instances of this class to indicate other illegal uses of the null object.</p>

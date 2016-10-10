@@ -1,0 +1,1 @@
+<p><a href="/wiki/Java_Programming/Methods" title="Java Programming/Methods">Methods</a> are the third and most important type of class member. This class contains three <i>methods</i> in which the behavior of the <code>Distance</code> class is defined: <code>printDistance()</code>, <code>main()</code>, and <code>intValue()</code></p>

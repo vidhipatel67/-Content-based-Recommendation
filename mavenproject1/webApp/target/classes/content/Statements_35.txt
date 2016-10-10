@@ -1,0 +1,1 @@
+<p>A <code>return</code> statement exits from a block, so it is often the last statement of a method:</p>

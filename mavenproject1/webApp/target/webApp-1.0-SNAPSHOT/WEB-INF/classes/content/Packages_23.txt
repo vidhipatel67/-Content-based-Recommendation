@@ -1,0 +1,1 @@
+<p>For example, to compile and run a class from a project's top directory (that contains the two directories <code>/source</code> and <code>/libraries</code>) you could use the following command:</p>

@@ -1,0 +1,1 @@
+<p>The name has changed because the method has changed the object itself and not the reference. Now take a look at the other example:</p>

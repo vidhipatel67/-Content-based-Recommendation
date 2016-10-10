@@ -1,0 +1,1 @@
+<p>String literals may not contain unescaped newline or linefeed characters. However, the Java compiler will evaluate compile time expressions, so the following String expression results in a string with three lines of text:</p>

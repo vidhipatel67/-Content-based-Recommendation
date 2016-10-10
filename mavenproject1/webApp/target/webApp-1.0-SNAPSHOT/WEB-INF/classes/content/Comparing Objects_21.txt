@@ -1,0 +1,1 @@
+<p>Since Java 5.0, the <code>Comparator</code> interface is generic; that means when you implement it, you can specify what type of objects your comparator can compare.</p>

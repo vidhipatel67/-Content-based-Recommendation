@@ -1,0 +1,1 @@
+<p>To order <code>String</code> objects, use the <b><code>compareTo()</code></b> method, which can be accessed wherever we use a String datatype. The <code>compareTo()</code> method returns a negative, zero, or positive number if the parameter is less than, equal to, or greater than the object on which it is called. Let's take a look at an example:</p>

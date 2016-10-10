@@ -1,0 +1,1 @@
+<p>Actually, each cell <b>does</b> contain a binary digit, as one bit is roughly equivalent to <code>1</code> and an empty cell in the memory signifies <code>0</code>. A single binary digit can only hold two possible values: a zero or a one.</p>

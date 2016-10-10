@@ -1,0 +1,1 @@
+<p>For an example, we'll take an array of <code>String</code>s denoting days in a week and traverse through the collection, examining one item at a time.</p>

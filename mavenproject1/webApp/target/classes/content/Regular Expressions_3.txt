@@ -1,0 +1,1 @@
+<p><br> The <a href="/wiki/Regular_Expressions" title="Regular Expressions">regular expressions</a> (regex) are provided by the package <code>java.util.regex</code>.</p>

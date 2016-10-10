@@ -1,0 +1,1 @@
+<p>It is possible that a method declares that it can throw an exception, but actually it does not. Still, the caller has to deal with it. The checked exception declaration has a domino effect. Any methods that will use the previous method will also have to handle the checked exception, and so on.</p>

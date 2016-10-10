@@ -1,0 +1,1 @@
+<p>It is possible that you have the Java runtime (JRE), but not the JDK. In that case the <code>javac</code> program won't be found, but the <code>java -version</code> will print the JRE version number.</p>

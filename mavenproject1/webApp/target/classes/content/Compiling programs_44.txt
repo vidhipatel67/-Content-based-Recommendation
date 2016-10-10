@@ -1,0 +1,1 @@
+<p>The next most popular way to build applications is using an <a href="/wiki/Java_Programming/Java_IDEs" title="Java Programming/Java IDEs">Integrated Development Environment</a> (IDE).</p>

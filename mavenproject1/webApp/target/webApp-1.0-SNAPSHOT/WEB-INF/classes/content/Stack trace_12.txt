@@ -1,0 +1,1 @@
+<p>Many times for debugging purposes, we'd like to convert the stack trace to a <code><a href="/wiki/Java_Programming/API/java.lang.String" title="Java Programming/API/java.lang.String">String</a></code> so we can log it to our log file.</p>

@@ -1,0 +1,1 @@
+<p>Methods in the <code>java.lang.Object</code> class are inherited, and thus shared in common by all classes.</p>

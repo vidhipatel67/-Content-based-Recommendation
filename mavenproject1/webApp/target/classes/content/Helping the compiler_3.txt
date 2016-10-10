@@ -1,0 +1,1 @@
+<p><br> Annotations can be used by the compiler to carry out certain directives. Much that you'd love programming in Java, you probably would have been fussed about compiler warnings. <i><b>Compiler warnings</b></i> are not necessarily errors but are warnings that tell you the code might malfunction because of some reason.</p>

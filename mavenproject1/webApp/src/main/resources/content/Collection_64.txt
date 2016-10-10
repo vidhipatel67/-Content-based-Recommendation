@@ -1,0 +1,1 @@
+<p>Let's have a closer look at this <i>magic</i>. The conversion is easy because the <code>Collection</code> interface defines a standard way of looping through the elements. The following code is a possible implementation of <code>addAll()</code> method of the <code>LinkedList</code>.</p>

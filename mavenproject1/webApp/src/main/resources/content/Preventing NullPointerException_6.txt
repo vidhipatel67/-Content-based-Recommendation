@@ -1,0 +1,1 @@
+<p>The above code shows one of the pitfall of Java, and the most common source of bugs. No object is created and the compiler does not detect it. <code>NullPointerException</code> is one of the most common exceptions thrown in Java.</p>

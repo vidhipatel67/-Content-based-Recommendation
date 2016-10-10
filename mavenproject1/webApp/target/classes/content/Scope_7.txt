@@ -1,0 +1,1 @@
+<p>In <a href="#code-listing-14">code listing 3.14</a>, <code>i</code> is visible within the entire <code>method1</code> method but not in the <code>method2</code> and the <code>main</code> methods.</p>

@@ -1,0 +1,1 @@
+<p>The two things you must at least create is an HTML page and a Java class. It can be done on a local folder, no need to run a server but it will be harder to understand what is local, what is remote. The HTML page has to call the Java class using the <code>&lt;applet/&gt;</code> markup:</p>

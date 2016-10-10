@@ -1,0 +1,1 @@
+<p>To instantiate a <code>BigInteger</code>, you can create it from either byte array, or from a string. For example:</p>

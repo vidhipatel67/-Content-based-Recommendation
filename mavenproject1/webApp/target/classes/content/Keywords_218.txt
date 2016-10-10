@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/package" title="Java Programming/Keywords/package"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">package</font></a></code> is a Java keyword. It declares a 'name space' for the Java class. It must be put at the top of the Java file, it should be the first Java statement line.</p>

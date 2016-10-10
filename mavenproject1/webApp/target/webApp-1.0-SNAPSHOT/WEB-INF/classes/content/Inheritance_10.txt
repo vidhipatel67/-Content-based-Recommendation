@@ -1,0 +1,1 @@
+<p>In Java, a class can only inherit from one class. Java does not allow you to create a subclass from two classes, as that would require creating complicated rules to disambiguate fields and methods inherited from multiple superclasses. If there is a need for Java to inherit from multiple sources, the best option is through interfaces, described in the next chapter.</p>

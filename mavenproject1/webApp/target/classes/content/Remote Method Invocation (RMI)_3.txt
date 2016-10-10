@@ -1,0 +1,1 @@
+<p><br> Java's Remote Method Invocation (commonly referred to as RMI) is used for client and server models. RMI is the object oriented equivalent to <a href="//en.wikipedia.org/wiki/Remote_procedure_call" class="extiw" title="w:Remote procedure call">RPC (Remote procedure call)</a>.</p>

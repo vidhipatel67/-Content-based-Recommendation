@@ -1,0 +1,1 @@
+<p>This layout arranges components in the form of the table (grid). The number of rows and columns in the grid is specified in the constructor. The other two parameters, if present, specify vertical and horizontal padding between components.</p>

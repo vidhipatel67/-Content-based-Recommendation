@@ -1,0 +1,1 @@
+<p>A special kind of event are <code>PropertyChangeEvents</code>. They are used to restrict some properties to take only specific values, for example for a month integer values between 1 and 12. Every time, such a <i>bound property</i> is modified, notifications to all registered <i>PropertyChangeListeners</i> will be send.</p>

@@ -1,0 +1,1 @@
+<p>Inner classes compile to separate ".class" bytecode files, with the name of the enclosing class, followed by a "$", followed by the name of the inner class. So for example, the above inner class would be compiled to a file named "OuterClass$InnerClass.class".</p>

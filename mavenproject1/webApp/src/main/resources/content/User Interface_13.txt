@@ -1,0 +1,1 @@
+<p>Allowing buttons to carry out tasks or utilize a user's input is a bit more complicated. These functions require an <code>ActionListener</code>, and will be discussed in <a href="/wiki/Java_Programming/Applets/Event_Listeners" title="Java Programming/Applets/Event Listeners">ActionListener</a> section.</p>

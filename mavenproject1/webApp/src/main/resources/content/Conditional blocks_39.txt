@@ -1,0 +1,1 @@
+<p>The structure of a <code>switch</code> statement is as follows:</p>

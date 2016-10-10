@@ -1,0 +1,1 @@
+<p>A bunch of statements can be placed in braces to be executed as a single block. Such a block of statement can be named or be provided a condition for execution. Below is how you'd place a series of statements in a block.</p>

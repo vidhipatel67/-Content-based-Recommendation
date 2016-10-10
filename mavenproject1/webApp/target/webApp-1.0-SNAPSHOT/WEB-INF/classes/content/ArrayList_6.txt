@@ -1,0 +1,1 @@
+<p>The ArrayList class supports three constructors. The first constructor builds an empty array list.:</p>

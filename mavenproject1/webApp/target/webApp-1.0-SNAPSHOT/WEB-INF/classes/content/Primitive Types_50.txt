@@ -1,0 +1,1 @@
+<p>Unlike C, C++ and similar languages, Java can't represent <code>false</code> as <code>0</code> or <code>null</code> and can't represent <code>true</code> as non-zero. Java can't cast from boolean to a non-boolean primitive data type, or vice versa.</p>

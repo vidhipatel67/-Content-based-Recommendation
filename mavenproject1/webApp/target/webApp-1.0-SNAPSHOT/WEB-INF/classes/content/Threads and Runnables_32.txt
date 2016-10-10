@@ -1,0 +1,1 @@
+<p>Threads are not only used heavily in video games, their use is common in everything from simple browser applications to complex operating systems and networking applications. Today it often goes beyond the simple preference of the developer but into the need to maximize the usefulness of contemporaneous hardware that is predicated in heavy multitasking.</p>

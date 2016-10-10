@@ -1,0 +1,1 @@
+<p><code>ActionListener</code> is an interface that could be implemented in order to determine how certain event should be handled. When implementing an interface, all methods in that interface should be implemented, <code>ActionListener</code> interface has one method to implement named <code>actionPerformed()</code>.</p>

@@ -1,0 +1,1 @@
+<p>In this example, since the integer variable <code>n</code> is equal to 2, <code>case 2</code> will execute, make <code>x</code> equal to 4. Thus, 4 is returned by the method.</p>

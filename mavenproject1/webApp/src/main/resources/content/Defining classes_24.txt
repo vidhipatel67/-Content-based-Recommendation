@@ -1,0 +1,1 @@
+<p><i>Static initializers</i> are blocks of code that are executed at the same time as initializers for static fields. Static field initializers and static initializers are executed in the order declared. The static initialization is executed after the class is loaded.</p>

@@ -1,0 +1,1 @@
+<p><code>&lt;? super ClassName&gt;</code> specifies a restriction on the types of classes that may be used. For example, to declare a Comparator that can compare Dogs, you use:</p>

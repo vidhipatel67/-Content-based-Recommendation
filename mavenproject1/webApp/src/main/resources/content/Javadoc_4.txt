@@ -1,0 +1,1 @@
+<p>A documentation comment is framed by slash-star-star and star-slash (i.e. /** ... */). The documentation is in the HTML format.</p>

@@ -1,0 +1,1 @@
+<p>If a case does not end with the <code>break</code> statement, then the next case will be checked, otherwise the execution will jump to the end of the <code>switch</code> statement.</p>

@@ -1,0 +1,1 @@
+<p>Enough talk, let's see how you can create a numeric type. A numeric type begins with the type's name (<code>short</code>, <code>int</code>, etc.) and then provides with a name for the allocated space in the memory. Following is how it's done. Say, we need to create a variable to hold the number of days in a year.</p>

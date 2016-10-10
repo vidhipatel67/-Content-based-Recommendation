@@ -1,0 +1,1 @@
+<p>Normally, a minor change to the class can cause the serialization to fail. You can still allow the class to be loaded by defining the serialization version id:</p>

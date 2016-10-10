@@ -1,0 +1,1 @@
+<p>Example&nbsp;: for a class named <code>Example</code> defined in a package named <code>org.wikibooks.en</code> dans le fichier <code>C:\ProgJava\org\wikibooks\en\Example.java</code>&nbsp;:</p>

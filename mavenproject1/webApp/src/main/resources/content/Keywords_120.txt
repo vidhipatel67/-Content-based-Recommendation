@@ -1,0 +1,1 @@
+<p>A final class cannot be <code><a href="/wiki/Java_Programming/Keywords/abstract" title="Java Programming/Keywords/abstract"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">abstract</font></a></code>. The <code>final</code> keyword is similar to <code>sealed</code> keyword in <a href="/wiki/C_Sharp_Programming" title="C Sharp Programming">C#</a>.</p>

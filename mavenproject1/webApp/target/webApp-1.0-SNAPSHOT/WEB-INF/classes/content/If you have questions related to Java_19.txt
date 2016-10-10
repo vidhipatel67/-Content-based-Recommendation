@@ -1,0 +1,1 @@
+<p>You can display the value of any variable by using the System.out.print() and System.out.println() functions.</p>

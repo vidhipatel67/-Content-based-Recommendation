@@ -1,0 +1,1 @@
+<p><code>@Deprecated</code> is used to flag that a method or class should no longer be used, normally because a better alternative exists. Compilers and IDEs typically raise a <i>warning</i> if deprecated code is invoked from non deprecated code. <a rel="nofollow" class="external autonumber" href="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/Deprecated.html">[1]</a></p>

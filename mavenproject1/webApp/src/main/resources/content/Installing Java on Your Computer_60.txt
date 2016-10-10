@@ -1,0 +1,1 @@
+<p>If the JDK is installed and on your executable path, you should see some output which tells you the command line options. The output will vary depending on which version is installed and which vendor provided the Java installation.</p>

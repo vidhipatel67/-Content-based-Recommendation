@@ -1,0 +1,1 @@
+<p>So we need to mix (somehow) EJB and JINI technologies to come up with a true flexible component based technology.</p>

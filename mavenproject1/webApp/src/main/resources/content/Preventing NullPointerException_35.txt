@@ -1,0 +1,1 @@
+<p>There is tools like FindBugs that parse your code and warn you about potential bugs. Most of the time, it detects possible null pointers.</p>

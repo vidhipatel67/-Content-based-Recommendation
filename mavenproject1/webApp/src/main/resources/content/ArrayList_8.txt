@@ -1,0 +1,1 @@
+<p>The following constructor builds an array list that has the specified initial capacity. The capacity is the size of the underlying array that is used to store the elements.</p>

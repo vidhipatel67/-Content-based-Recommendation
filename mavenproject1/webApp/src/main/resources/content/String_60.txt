@@ -1,0 +1,1 @@
+<p>By counting from there, it is apparent that the character in index 3 is the second "f" in "coffee". This is known as the <code>beginIndex</code>. All characters from the <code>beginIndex</code> until the end of the string will be copied into the new substring.</p>

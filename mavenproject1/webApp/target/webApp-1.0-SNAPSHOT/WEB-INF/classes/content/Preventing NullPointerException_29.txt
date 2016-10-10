@@ -1,0 +1,1 @@
+<p><code>File.listFiles()</code> can return null if <code>/etc</code> is not a directory.</p>

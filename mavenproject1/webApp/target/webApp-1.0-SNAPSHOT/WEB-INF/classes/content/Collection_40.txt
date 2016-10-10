@@ -1,0 +1,1 @@
+<p>The <code>SortedSet</code> interface is the same as the Set interface plus the elements in the SortedSet are sorted. It extends the Set Interface. All elements in the SortedSet must implement the Comparable Interface, furthermore all elements must be mutually comparable.</p>

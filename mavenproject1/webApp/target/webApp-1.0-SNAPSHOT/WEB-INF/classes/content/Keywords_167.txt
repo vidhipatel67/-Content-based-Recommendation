@@ -1,0 +1,1 @@
+<p>It declares a Java class to use in the code below the import statement. Once a Java class is declared, then the class name can be used in the code without specifying the package the class belongs to.</p>

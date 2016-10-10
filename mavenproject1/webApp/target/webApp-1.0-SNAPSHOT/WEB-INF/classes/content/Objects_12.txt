@@ -1,0 +1,1 @@
+<p>In general there are four constructor types: default, non-default, copy, and cloning.</p>

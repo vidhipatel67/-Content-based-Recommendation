@@ -1,0 +1,1 @@
+<p>Numbers are stored in memory using a binary system. The memory is like a grid of cells:</p>

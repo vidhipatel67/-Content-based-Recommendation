@@ -1,0 +1,1 @@
+<p>Let us refine the above code for the class to be executable and the Canvas to be displayed. For this we will add an entry-point method namely the <code style="border-bottom:dashed green 1px">main(String[])</code> method in its body and calling a <code style="border-bottom:dashed red 1px;">JFrame</code> class to load the canvas on.</p>

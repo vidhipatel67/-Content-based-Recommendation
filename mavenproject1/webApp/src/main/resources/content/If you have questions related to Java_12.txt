@@ -1,0 +1,1 @@
+<p>Java applications can be run in the same way as any other program if they are found in .JAR or .JNLP packages. If you are trying to run a .class file, simply open a command line prompt and type <tt>java MyClass</tt>, where MyClass is the name of the class file you are trying to launch.</p>

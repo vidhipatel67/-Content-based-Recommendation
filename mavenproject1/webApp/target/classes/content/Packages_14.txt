@@ -1,0 +1,1 @@
+<p>The classes <code>Integer</code> and <code>String</code> belongs to the package <code>java.lang</code> but they don't need to be imported as the <code>java.lang</code> package is implicitly imported in all classes.</p>

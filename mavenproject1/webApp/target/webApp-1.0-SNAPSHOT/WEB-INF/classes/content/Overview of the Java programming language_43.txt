@@ -1,0 +1,1 @@
+<p>Exception handling was also added to C++. However, there are two differences between Java and C++ Exception handling:</p>

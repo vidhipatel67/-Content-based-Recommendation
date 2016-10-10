@@ -1,0 +1,1 @@
+<p>However as a developer, you would only require the JDK which comes equipped with a JRE as well. Given below are installation instruction for the JDK for various operating systems:</p>

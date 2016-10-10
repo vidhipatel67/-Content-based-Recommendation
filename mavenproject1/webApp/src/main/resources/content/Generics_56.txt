@@ -1,0 +1,1 @@
+<p>Both these objects appear as the same type at runtime (both <code>ArrayList</code>'s). The generic type information is erased during compilation (type erasure). For example:</p>

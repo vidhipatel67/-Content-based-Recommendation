@@ -1,0 +1,1 @@
+<p><code>Question1</code> inherits from <code>Class1</code> and <code>Class2</code> but not from <code>Class3</code>.</p>

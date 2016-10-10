@@ -1,0 +1,1 @@
+<p>This class is named <i>Distance</i>, so using your favorite editor or <a href="/wiki/Java_Programming/Java_IDEs" title="Java Programming/Java IDEs">Java IDE</a>, first create a file named <code>Distance.java</code>, then copy the source below, paste it into the file and save the file.</p>

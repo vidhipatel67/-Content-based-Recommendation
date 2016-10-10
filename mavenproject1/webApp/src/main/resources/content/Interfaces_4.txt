@@ -1,0 +1,1 @@
+<p>An interface represents a <i>contract</i>:</p>

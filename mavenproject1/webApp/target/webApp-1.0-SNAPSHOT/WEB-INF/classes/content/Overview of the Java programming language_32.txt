@@ -1,0 +1,1 @@
+<p>The first of these is to simply compile directly into native code like a more traditional compiler, skipping bytecode entirely. This achieves great performance, but at the expense of portability. This is not really used any more.</p>

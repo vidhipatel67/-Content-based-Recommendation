@@ -1,0 +1,1 @@
+<p>There are a number of exciting new languages being created that also compile to Java byte code, such as <a href="//en.wikipedia.org/wiki/Groovy_(programming_language)" class="extiw" title="w:Groovy (programming language)">Groovy</a>.</p>

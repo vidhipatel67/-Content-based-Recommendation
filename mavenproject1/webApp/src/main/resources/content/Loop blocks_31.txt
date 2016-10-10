@@ -1,0 +1,1 @@
+<p>The <code>for</code> loop is like a template version of the <code>while</code> loop. The alternative code using a <code>while</code> loop would be as follows:</p>

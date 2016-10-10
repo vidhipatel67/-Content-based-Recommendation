@@ -1,0 +1,1 @@
+<p>To disable this property, you can use <code>&amp;</code> instead of <code>&amp;&amp;</code> and <code>|</code> instead of <code>||</code> but it's not recommended.</p>

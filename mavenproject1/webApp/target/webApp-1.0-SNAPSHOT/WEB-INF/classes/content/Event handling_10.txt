@@ -1,0 +1,1 @@
+<p>One of the most interesting things about support for event-driven programming on the Java platform is that there is none, as such. Or, depending on your point of view, there are many different individual pieces of the platform that offer their own support for event-driven programming.</p>

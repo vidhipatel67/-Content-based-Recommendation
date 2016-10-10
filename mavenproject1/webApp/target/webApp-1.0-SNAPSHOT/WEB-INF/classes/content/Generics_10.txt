@@ -1,0 +1,1 @@
+<p>Here, the generic type is defined after the name of the class. Any new identifier can be chosen. Here, we have chosen <i>T</i>, which is the most common choice. The actual type is defined at the object instantiation:</p>

@@ -1,0 +1,1 @@
+<p>Use the Collection interface if you need to keep related (usually the same type of) objects together in a collection where you can:</p>

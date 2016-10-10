@@ -1,0 +1,1 @@
+<p>If you obtain another message ending by <code>1 error</code> or <code>... errors</code>, there may be a mistake in your code. Are you sure all words are spelled correctly and with the exact case as shown? Are there semicolons and brackets in the appropriate spot? Are you missing a quote? Usually, modern IDEs would try coloring the entire source as a quote in this case.</p>

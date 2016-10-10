@@ -1,0 +1,1 @@
+<p>By overriding the <code>update(Graphics g)</code> and <code>paint(Graphics g)</code> methods of an Applet (or one of it's sub-components), you can have fairly direct control over the rendering of an Applet. The Graphics object provides various primitives for working for two-dimensional graphics.</p>

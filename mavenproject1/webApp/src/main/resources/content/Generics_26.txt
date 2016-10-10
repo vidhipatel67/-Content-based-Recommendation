@@ -1,0 +1,1 @@
+<p><code>aQuestion.getItem()</code> is typed as a string.</p>

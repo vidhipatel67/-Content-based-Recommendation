@@ -1,0 +1,1 @@
+<p>This is the constructor for the Distance class. Distance implicitly extends from <code>java.lang.Object</code>. Java inserts a call to the super constructor as the first executable statement of the constructor if there is not one explicitly coded. The above constructor body is equivalent to the following body with the explicit super constructor call:</p>

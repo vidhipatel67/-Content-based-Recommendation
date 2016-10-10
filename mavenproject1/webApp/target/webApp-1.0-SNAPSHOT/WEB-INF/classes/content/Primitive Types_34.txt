@@ -1,0 +1,1 @@
+<p>Here, <code>daysInYear</code> is the name of the variable that holds <code>365</code> as it's value, while <code>short</code> is the data type for that particular value. Other uses of integer data types in Java might see you write code such as this given below:</p>

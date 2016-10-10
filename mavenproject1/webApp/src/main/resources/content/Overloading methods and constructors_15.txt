@@ -1,0 +1,1 @@
+<p>The compiler would give an error for the following method definitions as well:</p>

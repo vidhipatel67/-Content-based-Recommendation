@@ -1,0 +1,1 @@
+<p><br> To generate random numbers the <code>Math.random()</code> method can be used, which returns a <code><a href="/wiki/Java_Programming/Keywords/double" title="Java Programming/Keywords/double"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">double</font></a></code>, greater than or equal to 0.0 and less than 1.0.</p>

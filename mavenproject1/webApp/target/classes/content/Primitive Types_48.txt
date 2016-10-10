@@ -1,0 +1,1 @@
+<p>The following table shows the conversions between primitive types, it shows the casting operation for explicit conversions:</p>

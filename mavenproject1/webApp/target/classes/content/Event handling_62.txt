@@ -1,0 +1,1 @@
+<p>Next, let's take a look at applying an adaptor to our design. Adaptors are used to add functionality to the event handling process that:</p>

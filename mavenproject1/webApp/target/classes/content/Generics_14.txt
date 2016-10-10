@@ -1,0 +1,1 @@
+<p>A class can define as many generic types as you like. Choose a different identifier for each generic type and separate them by a comma:</p>

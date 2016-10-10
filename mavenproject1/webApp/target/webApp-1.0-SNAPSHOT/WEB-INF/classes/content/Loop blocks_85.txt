@@ -1,0 +1,1 @@
+<p>The <a href="#code-listing-6">code listing 3.6</a> tries to print all the arguments that have been passed to the program. However, if there not enough arguments, it will throw an exception.</p>

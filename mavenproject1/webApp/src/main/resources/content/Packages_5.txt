@@ -1,0 +1,1 @@
+<p>In a class, a package is declared at the top of the source code using the keyword <code><a href="/wiki/Java_Programming/Keywords/package" title="Java Programming/Keywords/package"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">package</font></a></code>:</p>

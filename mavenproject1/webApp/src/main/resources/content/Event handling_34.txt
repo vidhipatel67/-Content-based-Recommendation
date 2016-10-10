@@ -1,0 +1,1 @@
+<p>For our interesting event set let's keep things simple: let's limit ourselves to having read a new number and having reached the end of the stream. With this choice we come to the following design for our example application:</p>

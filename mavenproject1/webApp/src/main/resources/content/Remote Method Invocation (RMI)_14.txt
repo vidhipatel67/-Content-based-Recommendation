@@ -1,0 +1,1 @@
+<p>The Registry can also be started from a program by calling the following code:</p>

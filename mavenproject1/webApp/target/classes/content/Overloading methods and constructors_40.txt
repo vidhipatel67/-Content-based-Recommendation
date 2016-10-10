@@ -1,0 +1,1 @@
+<p>The return type can cause the same problem we saw above. When we override a super class method the return type also must be the same. If that is not the same, the compiler will give you an error.</p>

@@ -1,0 +1,1 @@
+<p>Note how we've hooked the number-reading loop into the event handling mechanism by calling the notify methods? The entire class looks like this:</p>

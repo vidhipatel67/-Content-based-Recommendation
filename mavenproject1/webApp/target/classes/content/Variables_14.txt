@@ -1,0 +1,1 @@
+<p>Upon creating a variable, we basically create a new address space and give it a unique name. Java goes one step further and lets you define what you can place within the variable — in Java parlance you call this a <i>data type</i>. So, you essentially have to do two things in order to create a variable:</p>

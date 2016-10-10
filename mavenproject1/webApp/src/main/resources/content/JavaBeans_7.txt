@@ -1,0 +1,1 @@
+<p>Together with the component model, Sun released a simple visual composition tool, the BeanBox. It is mostly intended for experimenting with Beans rather than offering a professional IDE. For real world applications, one should better deploy on one of the Java IDEs like Visual Age or JBuilder that support the visual composition of JavaBeans.</p>

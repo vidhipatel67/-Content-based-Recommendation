@@ -1,0 +1,1 @@
+<p>Java has no general logarithm function; when needed this can be simulated using the change-of-base theorem.</p>

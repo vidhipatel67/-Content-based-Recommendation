@@ -1,0 +1,1 @@
+<p><br> If you have two components, it is not the same to put the first in the north and the second to the center as to put the first in the center and the second to the south. In the first case, the layout will calculate the size of the component and the second component will have all the space left. In the second case, it is the opposite.</p>

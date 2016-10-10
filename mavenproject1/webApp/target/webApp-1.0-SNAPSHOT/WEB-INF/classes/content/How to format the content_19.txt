@@ -1,0 +1,1 @@
+<p>To represent what is shown on the screen, use the following syntax:</p>

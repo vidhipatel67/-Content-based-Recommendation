@@ -1,0 +1,1 @@
+<p>As the <code>break</code> and <code>continue</code> statements reduce the readability of the code, it is recommended to reduce their use or replace them with the use of <code>if</code> and <code>while</code> blocks. Some IDE refactoring operations will fail because of such statements.</p>

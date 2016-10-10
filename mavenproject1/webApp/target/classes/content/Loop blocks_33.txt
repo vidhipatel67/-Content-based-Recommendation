@@ -1,0 +1,1 @@
+<p>The <a href="#code-section-31">code section 3.31</a> shows how to iterate with the <code>for</code> loop using multiple variables and the <a href="#code-section-32">code section 3.32</a> shows how any of the parameters of a <code>for</code> loop can be skipped. Skip them all, and you have an infinitely repeating loop.</p>

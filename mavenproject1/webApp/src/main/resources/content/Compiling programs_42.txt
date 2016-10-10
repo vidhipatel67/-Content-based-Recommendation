@@ -1,0 +1,1 @@
+<p>The <code>build.xml</code> file is generally kept in the root directory of the java project. Ant parses this file and executes the tasks therein. Below we give an example <code>build.xml</code> file.</p>

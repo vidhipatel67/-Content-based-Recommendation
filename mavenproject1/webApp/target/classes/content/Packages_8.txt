@@ -1,0 +1,1 @@
+<p>The simpliest way to use a class declared in a package is to prefix the class name with its package:</p>

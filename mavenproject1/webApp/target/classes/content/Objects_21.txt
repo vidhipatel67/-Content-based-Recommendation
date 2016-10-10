@@ -1,0 +1,1 @@
+<p>Type is basically a list of features/operations, that can be performed through that object reference. The object reference type is basically a contract that guarantees that those operations will be there at run time.</p>

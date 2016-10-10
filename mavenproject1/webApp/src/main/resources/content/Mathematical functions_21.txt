@@ -1,0 +1,1 @@
+<p>In addition, hyperbolic functions are available: <code>Math.<b>sinh</b>(x)</code>, <code>Math.<b>cosh</b>(x)</code>, and <code>Math.<b>tanh</b>(x)</code>.</p>

@@ -1,0 +1,1 @@
+<p>Remember that <code>String</code> objects are immutable objects. Once a <code>String</code> is created, it can not be modified, takes up memory until garbage collected. Be careful of writing a method like this:</p>

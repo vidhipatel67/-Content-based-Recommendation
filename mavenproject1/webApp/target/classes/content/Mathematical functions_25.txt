@@ -1,0 +1,1 @@
+<p>In this example, <code>result</code> will contain a value of 3.</p>

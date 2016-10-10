@@ -1,0 +1,1 @@
+<p>Typically, a constructor is invoked using the <code><a href="/wiki/Java_Programming/Keywords/new" title="Java Programming/Keywords/new"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">new</font></a></code> keyword:</p>

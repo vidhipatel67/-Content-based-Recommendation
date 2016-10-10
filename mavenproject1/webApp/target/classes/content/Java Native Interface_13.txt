@@ -1,0 +1,1 @@
+<p>JNI also allows direct access to assembly code, without even going through a C bridge.</p>

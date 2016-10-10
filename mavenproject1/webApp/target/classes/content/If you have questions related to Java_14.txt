@@ -1,0 +1,1 @@
+<p>A class is a template to create objects. Methods and variables declared private can not be access outside of the class. Those can be only accessed internally, it means that they are hidden from the outside. It makes programming esier because it is garantide that those internal information won't be messed up by outside code.</p>

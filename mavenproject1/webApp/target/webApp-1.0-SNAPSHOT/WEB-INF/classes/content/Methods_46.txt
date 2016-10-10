@@ -1,0 +1,1 @@
+<p>So as we can see, a method may or may not return a value. If the method does not return a value we use the <code><a href="/wiki/Java_Programming/Keywords/void" title="Java Programming/Keywords/void"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">void</font></a></code> Java keyword.</p>

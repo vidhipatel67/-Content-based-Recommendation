@@ -1,0 +1,1 @@
+<p><br> Besides performing mathematical functions, there are also operators to assign numbers to variables (each example again uses the variable initialized as <code>x = 5</code>):</p>

@@ -1,0 +1,1 @@
+<p>The following chart shows how Java would compute this expression:</p>

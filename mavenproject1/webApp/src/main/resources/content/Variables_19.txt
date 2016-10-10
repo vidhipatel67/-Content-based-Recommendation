@@ -1,0 +1,1 @@
+<p>Java provides programmers with a simpler way of combining both variable declaration and assignment operation in one line. Consider the following code:</p>

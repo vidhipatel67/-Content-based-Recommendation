@@ -1,0 +1,1 @@
+<p>In the Java class hierarchy, an exception is a checked exception if it inherits from <code>java.lang.Exception</code>, but not from <code>java.lang.RuntimeException</code>. All the application or business logic exceptions should be checked exceptions.</p>

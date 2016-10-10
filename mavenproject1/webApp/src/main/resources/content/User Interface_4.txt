@@ -1,0 +1,1 @@
+<p><br> The main difference between an applet and a regular command-line executed program is that applets allow for extensible Graphical User Interfaces (GUI).</p>

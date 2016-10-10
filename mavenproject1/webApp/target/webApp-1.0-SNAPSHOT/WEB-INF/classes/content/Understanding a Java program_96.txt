@@ -1,0 +1,1 @@
+<p>...it means something completely different: it declares a method which has the return type <code>privatestaticint</code> It is unlikely that this type exists and the method is no longer static, so the above would result in a semantic error.</p>

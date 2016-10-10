@@ -1,0 +1,1 @@
+<p>The <code>java.lang.Object.toString()</code> method returns a <code>java.lang.String</code> that contains a text representation of the object. The <code><i><b>toString</b></i></code> method is implicitly called by the compiler when an object operand is used with the string concatenation operators (<code>+</code> and <code>+=</code>).</p>

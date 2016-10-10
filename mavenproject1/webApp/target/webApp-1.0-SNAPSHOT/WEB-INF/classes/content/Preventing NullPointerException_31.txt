@@ -1,0 +1,1 @@
+<p>Beware if you loop on an array or a collection in a for each loop.</p>

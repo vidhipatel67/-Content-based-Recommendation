@@ -1,0 +1,1 @@
+<p>Static methods cannot call non static methods. The <code><a href="/wiki/Java_Programming/Keywords/this" title="Java Programming/Keywords/this"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">this</font></a></code> current object reference is also not available in static methods.</p>

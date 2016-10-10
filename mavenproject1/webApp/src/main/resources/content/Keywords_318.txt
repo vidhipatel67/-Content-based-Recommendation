@@ -1,0 +1,1 @@
+<p>How the catch-blocks are evaluated see <a href="/wiki/Java_Programming/Throwing_and_Catching_Exceptions#Catching_Rule" title="Java Programming/Throwing and Catching Exceptions">Catching Rule</a></p>

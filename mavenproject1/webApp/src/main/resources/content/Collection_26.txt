@@ -1,0 +1,1 @@
+<p><code>ageList</code> is a collection that can contain only Integer objects as elements. No casting is required when we take out an element.</p>

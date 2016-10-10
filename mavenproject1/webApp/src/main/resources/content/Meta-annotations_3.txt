@@ -1,0 +1,1 @@
+<p><br> There are five annotation types in the <code>java.lang.annotation</code> package called <b>meta-annotations</b>. These annotation types are used to annotate other annotation types.</p>

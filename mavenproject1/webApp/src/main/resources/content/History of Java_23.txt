@@ -1,0 +1,1 @@
+<p>Released in 6 February 2002, Java 1.4 has improved programmer productivity by expanding language features and available APIs:</p>

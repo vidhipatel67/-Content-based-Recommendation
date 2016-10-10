@@ -1,0 +1,1 @@
+<p>As Java is strongly typed, you can't assign a floating point number (a number with a decimal point) to an integer variable:</p>

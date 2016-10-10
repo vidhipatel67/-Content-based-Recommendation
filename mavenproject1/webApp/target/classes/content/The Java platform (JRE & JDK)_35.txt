@@ -1,0 +1,1 @@
+<p>This command would convert the <code>SomeApplication.java</code> source file into its equivalent Java byte-code. The resultant byte-code would exist in a newly created file named <code>SomeApplication.class</code>. This process of converting Java source files into their equivalent byte-codes is known as <i><b>compilation</b></i>.</p>

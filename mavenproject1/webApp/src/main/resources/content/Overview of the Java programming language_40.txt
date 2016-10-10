@@ -1,0 +1,1 @@
+<p>With the high-level of control built into the language to manipulate hardware, a C/C++ programmer could access almost any resource, either hardware or software on the system. This was intended to be one of the languages' strong points, but this very flexibility led to confusion and complex programming practices.</p>

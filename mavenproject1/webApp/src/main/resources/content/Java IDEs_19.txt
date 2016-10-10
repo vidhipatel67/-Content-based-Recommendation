@@ -1,0 +1,1 @@
+<p>DrJava is an IDE developed by the JavaPLT group at Rice University. It is designed for students.</p>

@@ -1,0 +1,1 @@
+<p>JavaBeans are the mainstream Java component model, introduced in 1996 by Sun Microsystems. JavaBeans are defined as follows:</p>

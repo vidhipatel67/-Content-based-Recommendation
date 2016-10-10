@@ -1,0 +1,1 @@
+<p>There are some who believe that for certain projects, object orientation makes work harder instead of easier. This particular complaint is not unique to the Java language but applies to other object-oriented languages as well.</p>

@@ -1,0 +1,1 @@
+<p>There is no guarantee when the <code>finalize</code> method will be called, or the order in which the <code>finalize</code> method will be called for multiple objects. If the JVM exits without performing garbage collection, the OS may free the objects, in which case the <code>finalize</code> method doesn't get called.</p>

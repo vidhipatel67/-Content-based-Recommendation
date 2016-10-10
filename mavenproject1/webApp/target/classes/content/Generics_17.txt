@@ -1,0 +1,1 @@
+<p>A generic type can be defined for just a method:</p>

@@ -1,0 +1,1 @@
+<p>The power method, <code>double Math.<b>pow</b>(double, double)</code>, returns the first parameter to the power of the second parameter. For example, a call to <code>Math.pow(2, 10)</code> will return a value of 1024 (2<sup>10</sup>).</p>

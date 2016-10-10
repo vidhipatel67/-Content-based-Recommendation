@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/new" title="Java Programming/Keywords/new"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">new</font></a></code> is a Java keyword. It creates a Java object and allocates memory for it on the heap. <code>new</code> is also used for array creation, as arrays are also objects.</p>

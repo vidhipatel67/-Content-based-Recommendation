@@ -1,0 +1,1 @@
+<p>The remote method invocation goes through a STUB on the client side and a so called SKELETON on the server side.</p>

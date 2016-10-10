@@ -1,0 +1,1 @@
+<p>To easily remember what can be done in method overriding, keep in mind that all you can do on an object of a class outside this class, you can do it also on an object of a subclass, only the behavior can change. A subclass should be <i>covariant</i>.</p>

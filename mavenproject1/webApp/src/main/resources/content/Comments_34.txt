@@ -1,0 +1,1 @@
+<p><a href="/wiki/Java_Programming/Javadoc" title="Java Programming/Javadoc">Javadoc</a> comments are a special case of slash-star comments.</p>

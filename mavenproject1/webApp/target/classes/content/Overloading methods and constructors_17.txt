@@ -1,0 +1,1 @@
+<p>Note, the return type is not part of the unique signature. Why not? The reason is that a method can be called without assigning its return value to a variable. This feature came from C and C++. So for the call:</p>

@@ -1,0 +1,1 @@
+<p>In order for you to start using the JDK compiler utility with the Command Prompt, you would need to set the environment variables that points to the <b>bin</b> folder of your recently installed JDK. To set permanently your environment variables, follow the steps below.</p>

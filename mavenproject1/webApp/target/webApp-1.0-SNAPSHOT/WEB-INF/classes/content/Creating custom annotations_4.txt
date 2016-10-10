@@ -1,0 +1,1 @@
+<p>Before you can use an annotation with classes, theirs members and statements or expressions, you need to define an <i><b>annotation type</b></i>. Following is the syntax on how to define a type for the mentioned annotation.</p>

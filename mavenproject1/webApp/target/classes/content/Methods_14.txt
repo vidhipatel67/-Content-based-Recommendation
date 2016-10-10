@@ -1,0 +1,1 @@
+<p>The method is supposed to return a <code><a href="/wiki/Java_Programming/Keywords/int" title="Java Programming/Keywords/int"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">int</font></a></code> but when <code>a</code> is negative or equal to 0, it returns nothing.</p>

@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/while" title="Java Programming/Keywords/while"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">while</font></a></code> loops are the simplest form of loop. The <code>while</code> loop repeats a block of code while the specified condition is true. Here is the structure of a <code>while</code> loop:</p>

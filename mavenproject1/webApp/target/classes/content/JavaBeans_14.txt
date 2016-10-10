@@ -1,0 +1,1 @@
+<p>This is an example of a simple JavaBean type with the properties <code>int age</code> and <code>String color</code>.</p>

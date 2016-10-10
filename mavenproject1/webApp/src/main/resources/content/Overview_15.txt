@@ -1,0 +1,1 @@
+<p><i>The attributes with <span style="color: red;">*</span> are mandatory.</i></p>

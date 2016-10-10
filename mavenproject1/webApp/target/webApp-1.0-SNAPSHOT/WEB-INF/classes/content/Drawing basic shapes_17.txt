@@ -1,0 +1,1 @@
+<p>You can change the color of the outline by telling the <code style="border-bottom:dashed red 1px;">Graphics</code> instance the color you desire. This can be done as follows:</p>

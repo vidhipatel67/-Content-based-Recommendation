@@ -1,0 +1,1 @@
+<p><b>Note:</b><br> Notice the <code>J</code> before the names of each class. This suggests that the classes are part of the Java Swing library. Swing enables more freedom in drawing expressions in Java than AWT.</p>

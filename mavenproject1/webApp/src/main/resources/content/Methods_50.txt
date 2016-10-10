@@ -1,0 +1,1 @@
+<p>In the above example the <code>getPersonInfoById</code> method returns an object reference that contains both values of the name and the age. See below how you may use that object:</p>

@@ -1,0 +1,1 @@
+<p><b>Question 3.6</b>: Which of the ones below are proper variable identifiers?</p>

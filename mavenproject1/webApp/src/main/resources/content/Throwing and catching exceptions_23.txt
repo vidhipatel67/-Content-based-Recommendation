@@ -1,0 +1,1 @@
+<p>The executed code lines have been highlighted. When no exception is thrown, the method flow executes the <code>try</code> statement and not the <code>catch</code> statement.</p>

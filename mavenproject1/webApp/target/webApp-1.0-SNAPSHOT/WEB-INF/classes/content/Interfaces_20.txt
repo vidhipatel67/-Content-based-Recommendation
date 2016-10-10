@@ -1,0 +1,1 @@
+<p>This way, a class implementing the <code>InterfaceAB</code> interface has to implement the <code>methodA()</code>, the <code>methodB()</code> and the <code>otherMethod()</code> methods:</p>

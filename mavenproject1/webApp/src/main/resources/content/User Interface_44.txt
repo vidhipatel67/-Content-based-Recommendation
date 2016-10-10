@@ -1,0 +1,1 @@
+<p>A grid layout creates cells with equal sizes. So it can be used not only to display items as a grid but also to display two items with the same width or height.</p>

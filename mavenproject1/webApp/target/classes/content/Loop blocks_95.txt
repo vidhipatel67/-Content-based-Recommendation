@@ -1,0 +1,1 @@
+<p>The <a href="#code-listing-8">code listing 3.8</a> is a simulation of playing a game called Lucky Sevens. It is a dice game where the player rolls two dice. If the numbers on the dice add up to seven, he wins $4. If they do not, he loses $1. The game shows how to use control flow in a program as well as the fruitlessness of gambling.</p>

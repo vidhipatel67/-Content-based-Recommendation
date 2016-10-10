@@ -1,0 +1,1 @@
+<p><code>Math.getExponent</code> returns (as an <code><a href="/wiki/Java_Programming/Keywords/int" title="Java Programming/Keywords/int"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">int</font></a></code>) the exponent used to scale the floating-point argument in computer representation.</p>

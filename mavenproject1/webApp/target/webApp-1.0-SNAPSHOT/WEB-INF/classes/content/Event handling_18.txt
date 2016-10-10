@@ -1,0 +1,1 @@
+<p>There's one more thing to notice about the Event Model and that is what is <i>not</i> in the Model. The Event Model is designed to allow implementations a large degree of freedom in the implementation choices made, which means that the Event Model can serve as the basis for a very wide range of specific, purpose-built event handling systems.</p>

@@ -1,0 +1,1 @@
+<p><i>Adding Element and Size of ArrayList</i></p>

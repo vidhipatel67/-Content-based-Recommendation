@@ -1,0 +1,1 @@
+<p>A local variable is visible after its declaration until the end of the block in which the local variable has been created.</p>

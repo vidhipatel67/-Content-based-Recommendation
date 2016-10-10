@@ -1,0 +1,1 @@
+<p>The naming convention for the class name is for it to start with a capital letter.</p>

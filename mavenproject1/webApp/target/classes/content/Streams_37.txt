@@ -1,0 +1,1 @@
+<p>The non-blocking IO framework, though considerably more complex than the original blocking IO framework, allows any number of "channels" to be handled by a single thread. The framework is based on the Reactor Pattern.</p>

@@ -1,0 +1,1 @@
+<p><code>Math.copySign</code> returns the value of the first argument with the sign of the second argument. It can be used to determine the sign of a zero value.</p>

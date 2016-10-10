@@ -1,0 +1,1 @@
+<p><i>"A JavaBean is a reusable software component that can be manipulated visually in a builder tool."</i></p>

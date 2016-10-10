@@ -1,0 +1,1 @@
+<p>Applets are not constructed in the same way as other classes or main programs. The entry point is different and the main class should extend the <code>Applet</code> class. The <code>Applet</code> class has four methods that can be called by the browser and you can redefine:</p>

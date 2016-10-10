@@ -1,0 +1,1 @@
+<p>Since Java 5<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, the <code>package.html</code> file can be replaced by a special Java file named <code>package-info.java</code> containing only the package declaration preceding by a documentation comment.</p>

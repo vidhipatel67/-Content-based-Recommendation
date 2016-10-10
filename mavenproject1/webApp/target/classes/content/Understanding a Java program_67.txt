@@ -1,0 +1,1 @@
+<p>The <code>main()</code> method invokes the final method, <code>intValue()</code>, four times. The <code>intValue()</code> takes a single string parameter and returns the integer value represented in the string. For example, <code>intValue("3")</code> will return the integer 3.</p>

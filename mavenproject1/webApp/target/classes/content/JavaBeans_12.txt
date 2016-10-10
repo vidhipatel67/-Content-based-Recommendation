@@ -1,0 +1,1 @@
+<p>As per the JavaBeans standard, getters and setters defined as described above automatically determine the properties of the class. However, by creating <code>java.beans.PropertyDescriptor</code> classes, you can specify alternate implementations by explicitly declaring the property names and the getter and/or setter methods for each property.</p>

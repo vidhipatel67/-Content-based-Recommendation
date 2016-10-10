@@ -1,0 +1,1 @@
+<p>In other programming languages, such as C, const is often used to declare a constant. However, in Java, <code><a href="/wiki/Java_Programming/Keywords/final" title="Java Programming/Keywords/final"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">final</font></a></code> is used instead.</p>

@@ -1,0 +1,1 @@
+<p>3<br> As discussed earlier the <code style="border-bottom:dashed green 1px;">paint(Graphics)</code> method is the correct option. The name says it all.</p>

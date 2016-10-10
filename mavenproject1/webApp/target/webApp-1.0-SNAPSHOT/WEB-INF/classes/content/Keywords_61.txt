@@ -1,0 +1,1 @@
+<p>The general syntax of a class declaration, using <a href="/wiki/Programming_Languages/Syntax_Specification" title="Programming Languages/Syntax Specification">Extended Backus-Naur Form</a>, is</p>

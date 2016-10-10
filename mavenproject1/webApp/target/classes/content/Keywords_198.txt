@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/interface" title="Java Programming/Keywords/interface"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">interface</font></a></code> is a Java keyword. It starts the declaration of a Java Interface.</p>

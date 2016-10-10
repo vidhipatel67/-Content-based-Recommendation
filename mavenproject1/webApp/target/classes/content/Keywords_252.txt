@@ -1,0 +1,1 @@
+<p>The <code>counter</code> variable is incremented each time an object is created.</p>

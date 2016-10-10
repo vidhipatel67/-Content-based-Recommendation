@@ -1,0 +1,1 @@
+<p>Unicode characters can also be expressed through Unicode Escape Sequences. Unicode escape sequence may appear anywhere in a Java source file (including inside identifiers, comments, and <a href="/wiki/Java_Programming/Literals" title="Java Programming/Literals">string literals</a>).</p>

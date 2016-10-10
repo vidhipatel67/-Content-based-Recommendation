@@ -1,0 +1,1 @@
+<p><code>&nbsp;&nbsp;public void printDistance() {</code><br> <code>&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Distance between " + point0 + " and " + point1</code><br> <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ " is " + point0.distance(point1));</code><br> <code>&nbsp;&nbsp;}</code></p>

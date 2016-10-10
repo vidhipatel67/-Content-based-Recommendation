@@ -1,0 +1,1 @@
+<p><i>Initializers</i> are blocks of code that are executed at the same time as initializers for fields.</p>

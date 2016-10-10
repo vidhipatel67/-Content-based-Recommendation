@@ -1,0 +1,1 @@
+<p><small><i>See Oracle's Java Virtual Machine Specification<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> for more detailed descriptions</i></small></p>

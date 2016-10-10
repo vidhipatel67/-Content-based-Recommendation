@@ -1,0 +1,1 @@
+<p>The RMI Registry can either be started within the server JVM, via the <i>LocateRegistry.createRegistry()</i> API, or a separate process called <i>rmiregistry</i> that has to be started before remote objects can be added to it, e.g. by the command line in Unix:</p>

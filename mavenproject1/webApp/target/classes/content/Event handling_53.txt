@@ -1,0 +1,1 @@
+<p>Finally we must deal with reading the number stream. We'll use the Console class for that and just keep on reading numbers until there are no more:</p>

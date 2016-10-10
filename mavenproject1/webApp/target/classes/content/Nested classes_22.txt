@@ -1,0 +1,1 @@
+<p>The above code is harder to read than if the class is explicitly defined, so why use it? If many implementations are needed for an interface, those classes are used only in one particular place, and it would be hard to come up with names for them, using an <b>anonymous</b> inner class makes sense.</p>

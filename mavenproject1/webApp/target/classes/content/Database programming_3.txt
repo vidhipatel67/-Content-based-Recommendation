@@ -1,0 +1,1 @@
+<p>The following is used to open an <a href="//en.wikipedia.org/wiki/ODBC" class="extiw" title="wikipedia:ODBC">ODBC</a> connection to an Access database. Note that the username (and password, if applicable) are given in the DSN rather than the <code>getConnection</code> call. This is a MS Windows-only example, due to the requirement for the Microsoft Access Driver.</p>

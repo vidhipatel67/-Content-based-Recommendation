@@ -1,0 +1,1 @@
+<p><b>To do:</b><br> To-do items for pages should be kept in their respective comment boxes.</p>

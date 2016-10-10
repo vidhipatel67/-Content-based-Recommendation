@@ -1,0 +1,1 @@
+<p>The above code is valid because the <code>Animal</code> class is a supertype of the <code>Dog</code> class. Use of a class that is not a supertype would cause a compilation error.</p>

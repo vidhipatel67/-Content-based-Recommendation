@@ -1,0 +1,1 @@
+<p>In order to maintain this contract, a class that overrides the <code>equals</code> method must also override the <code>hashCode</code> method, and vice versa, so that <code>hashCode</code> is based on the same properties (or a subset of the properties) as <code>equals</code>.</p>

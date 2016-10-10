@@ -1,0 +1,1 @@
+<p>List the fields and methods of this class that can be renamed without changing or even knowing the client classes.</p>

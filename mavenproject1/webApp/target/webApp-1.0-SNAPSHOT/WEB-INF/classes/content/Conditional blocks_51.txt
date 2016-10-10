@@ -1,0 +1,1 @@
+<p>Starting in J2SE 5.0, the <code>switch</code> statement can also be used with an <code><a href="/wiki/Java_Programming/Keywords/enum" title="Java Programming/Keywords/enum"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">enum</font></a></code> value instead of an integer.</p>

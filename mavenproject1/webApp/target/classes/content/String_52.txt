@@ -1,0 +1,1 @@
+<p>Another useful application could be to <i>split</i> the String text based on the new line character, so you could process the text line by line.</p>

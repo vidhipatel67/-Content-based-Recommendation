@@ -1,0 +1,1 @@
+<p>Public static variable should not be used, as these become <b>global</b> variables that can be accessed from everywhere in the program. Global constants can be used, however. See below:</p>

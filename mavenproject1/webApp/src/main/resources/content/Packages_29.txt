@@ -1,0 +1,1 @@
+<p>The runtime identity of a class in Java is defined by the fully qualified class name and its defining class loader. This means that the same class, loaded by two different class loaders, is seen by the Virtual Machine as two completely different types.</p>

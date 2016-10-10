@@ -1,0 +1,1 @@
+<p>To view the contents of the <code style="border-bottom:dashed red 1px;">Graphics</code> class, please check the <a href="#External_Links">external links</a> at the bottom of the page for links to the online API.</p>

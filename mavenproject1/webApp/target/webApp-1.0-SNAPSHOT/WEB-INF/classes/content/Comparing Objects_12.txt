@@ -1,0 +1,1 @@
+<p>Note that equal objects <b>must</b> have equal hash codes. Therefore, when overriding the <code>equals</code> method, you must also override the <code>hashCode</code> method. Failure to do so violates the general contract for the <code>hashCode</code> method, and any classes that use the hash code, such as <code>HashMap</code> will not function properly.</p>

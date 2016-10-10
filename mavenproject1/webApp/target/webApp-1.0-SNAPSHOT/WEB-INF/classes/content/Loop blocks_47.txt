@@ -1,0 +1,1 @@
+<p>Although the enhanced for loop can make code much clearer, it can't be used in some common situations.</p>

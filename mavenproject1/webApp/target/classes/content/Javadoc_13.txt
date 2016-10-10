@@ -1,0 +1,1 @@
+<p>The JDK provides a tool named javadoc which allows to generate the documentation of the well commented classes. The javadoc command without argument give the complete syntax of the command.</p>

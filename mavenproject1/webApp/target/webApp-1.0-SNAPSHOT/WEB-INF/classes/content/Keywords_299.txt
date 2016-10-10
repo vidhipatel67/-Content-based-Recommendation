@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/throw" title="Java Programming/Keywords/throw"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">throw</font></a></code> is a keyword. It 'throws' an exception.</p>

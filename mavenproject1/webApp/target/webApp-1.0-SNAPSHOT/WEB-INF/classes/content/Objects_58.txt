@@ -1,0 +1,1 @@
+<p>A further contract that the map has with the object is that the results of the <code>hashCode</code> and <code>equals</code> methods will not change once the object has been inserted into the map. For this reason, it is generally a good practice to base the hash function on immutable properties of the object.</p>

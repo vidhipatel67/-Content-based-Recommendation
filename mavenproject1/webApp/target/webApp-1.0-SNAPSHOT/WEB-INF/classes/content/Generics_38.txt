@@ -1,0 +1,1 @@
+<p>Since <code>Dogs</code> are <code>Animals</code>, you can use this comparator to compare Dogs also. Comparators for any superclass of Dog can also compare Dog; but comparators for any strict subclass cannot.</p>

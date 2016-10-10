@@ -1,0 +1,1 @@
+<p>Aside from naming conventions and some base classes and interfaces, the Event Model specifies the following:</p>

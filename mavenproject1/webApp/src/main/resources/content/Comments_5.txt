@@ -1,0 +1,1 @@
+<p>It can also be used to make the compiler ignore a portion of code: temporary code for debugging, code under development...</p>

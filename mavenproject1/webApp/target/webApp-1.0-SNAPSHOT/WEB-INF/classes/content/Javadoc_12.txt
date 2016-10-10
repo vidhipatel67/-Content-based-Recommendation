@@ -1,0 +1,1 @@
+<p>See also <a href="/wiki/Java_Programming/Annotations/Introduction" title="Java Programming/Annotations/Introduction">annotations</a> since Java 5.</p>

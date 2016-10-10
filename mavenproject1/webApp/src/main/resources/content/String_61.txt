@@ -1,0 +1,1 @@
+<p>The second method involves a user-defined <code>beginIndex</code> and <code>endIndex</code>:</p>

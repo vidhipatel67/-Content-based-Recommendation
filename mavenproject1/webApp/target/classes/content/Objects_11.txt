@@ -1,0 +1,1 @@
+<p>This instantiation is brought about by one of the class's methods, called a <i>constructor</i>. As its name implies, a constructor builds the object based on the blueprint. Behind the scenes, this means that computer memory is being allocated for the instance, and values are being assigned to the data members.</p>

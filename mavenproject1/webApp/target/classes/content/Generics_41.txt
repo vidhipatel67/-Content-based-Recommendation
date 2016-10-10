@@ -1,0 +1,1 @@
+<p>The advantage of the unbounded wildcard (i.e. <code>&lt;?&gt;</code>) compared to a raw type (i.e. without generic) is to explicitly say that the parameterized type is unknown, not <i>any type</i>. That way, all the operations that implies to know the type are forbidden to avoid unsafe operation. Consider the following code:</p>

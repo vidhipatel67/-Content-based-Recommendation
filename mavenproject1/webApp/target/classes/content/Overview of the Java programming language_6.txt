@@ -1,0 +1,1 @@
+<p>Object orientation ("OO"), refers to a method of programming and language technique. The main idea of OO is to design software around the "things" (i.e. objects) it manipulates, rather than the actions it performs.</p>

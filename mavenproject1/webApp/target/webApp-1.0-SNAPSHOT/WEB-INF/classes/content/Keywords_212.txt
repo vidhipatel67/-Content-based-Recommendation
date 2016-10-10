@@ -1,0 +1,1 @@
+<p>To call the code in some other language (including <a href="/wiki/C%2B%2B_Programming" title="C++ Programming">C++</a>), you need to write a bridge from C to that language. This is usually trivial as most of languages are callable from C.</p>

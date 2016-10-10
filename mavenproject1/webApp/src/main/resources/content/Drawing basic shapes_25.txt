@@ -1,0 +1,7 @@
+<p>Drawing a circle is ever so easy? It is the same process as the syntax above only that the word <code>Rect</code> is changed to the word <code>Oval</code>. And don't ask me why oval? You simply don't have the method 
+ <strike>
+  <code style="border-bottom:dashed green 1px;">drawCircle(int, int, int)</code>
+ </strike> as you don't have 
+ <strike>
+  <code style="border-bottom:dashed green 1px;">drawSquare(int, int, int)</code>
+ </strike>. Following is the application of Graphics code to draw a circle just to whet your appetite.</p>

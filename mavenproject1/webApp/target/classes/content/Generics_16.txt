@@ -1,0 +1,1 @@
+<p>When a type that is defined with generic (for example, <code>Collection&lt;T&gt;</code>) is not used with generics (for example, <code>Collection</code>) is called a <i>raw type</i>.</p>

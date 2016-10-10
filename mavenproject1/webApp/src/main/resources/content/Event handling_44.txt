@@ -1,0 +1,1 @@
+<p>This is where things get interesting: the event source class. This is the interesting place because this is where we must put code to read the number stream, code to send events to all the listeners and code to <i>manage</i> listeners (add and remove them and keep track of them).</p>

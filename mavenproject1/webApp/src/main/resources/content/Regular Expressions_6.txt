@@ -1,0 +1,1 @@
+<p><br> The <i>Matcher</i> class allows to get all matches for a given expression, with different methods:</p>

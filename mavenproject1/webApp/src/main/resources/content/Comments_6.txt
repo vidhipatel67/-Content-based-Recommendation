@@ -1,0 +1,1 @@
+<p>The comments in Java use the same syntax as in <a href="/wiki/C%2B%2B_Programming" title="C++ Programming">C++</a>.</p>

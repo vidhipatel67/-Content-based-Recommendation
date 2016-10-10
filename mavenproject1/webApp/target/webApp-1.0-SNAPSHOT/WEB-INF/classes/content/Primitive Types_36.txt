@@ -1,0 +1,1 @@
+<p>The data types that one can use for integer numbers are <code>byte</code>, <code>short</code>, <code>int</code> and <code>long</code> but when it comes to floating point numbers, we use <code>float</code> or <code>double</code>. Now that we know that, we can modify the code in the <a href="#code-section-53">code section 3.53</a> as:</p>

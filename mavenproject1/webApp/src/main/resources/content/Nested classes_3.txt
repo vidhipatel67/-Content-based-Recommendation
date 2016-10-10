@@ -1,0 +1,1 @@
+<p><br> In Java you can define a class inside an other class. A class can be nested inside another class or inside a method. A class that is not nested is called a <i>top-level</i> class and a class defining a nested class is an <i>outer</i> class.</p>

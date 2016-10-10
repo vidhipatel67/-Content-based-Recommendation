@@ -1,0 +1,1 @@
+<p>Beware not to write statements after a <code>throw</code> statement which would not be executed too! Each <code>throw</code> statement is ended by a semi-colon (<code>;</code>).</p>

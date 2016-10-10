@@ -1,0 +1,1 @@
+<p>If the entity flagged as deprecated by this attribute is used, the compiler give a warning.</p>

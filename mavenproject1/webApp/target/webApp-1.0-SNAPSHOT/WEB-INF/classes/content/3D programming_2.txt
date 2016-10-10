@@ -1,0 +1,1 @@
+<p>Although Java comes with the Java 3D library other libraries have been developed over time with similar functionality. Thus, unlike many other areas of Java development explored in this book, a Java programmer has a choice to make as to which 3D library to use.</p>

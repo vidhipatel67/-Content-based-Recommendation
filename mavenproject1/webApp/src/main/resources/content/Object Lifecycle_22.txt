@@ -1,0 +1,1 @@
+<p>Note that only mutable objects needs to be cloned. References to unchangeable objects such as String be used in the cloned object without worry.</p>

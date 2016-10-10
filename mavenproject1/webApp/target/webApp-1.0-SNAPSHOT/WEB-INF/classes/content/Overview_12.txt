@@ -1,0 +1,1 @@
+<p>We clearly see that "Hello, world!" is not rendered the same way as the rest of the page.</p>

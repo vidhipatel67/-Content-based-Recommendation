@@ -1,0 +1,1 @@
+<p>Beware! <i>Synchronization</i> is an ambiguous term. It doesn't consist of making all threads executing the same code section at the same time. It is the opposite. It prevents any two threads from executing the same code section at the same time. It synchronizes the end of one processing with the beginning of a second processing.</p>

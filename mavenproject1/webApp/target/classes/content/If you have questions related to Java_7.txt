@@ -1,0 +1,1 @@
+<p><a href="/wiki/Java_Programming/Remote_Method_Invocation" title="Java Programming/Remote Method Invocation">RMI</a> is much simpler to use than CORBA, so in an only Java environment RMI should be used.</p>

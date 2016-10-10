@@ -1,0 +1,1 @@
+<p>A package name should start with a lower character. This eases to distinguish a package from a class name. In some operating systems, the directory names are not case sensitive. So package names should be lowercase.</p>

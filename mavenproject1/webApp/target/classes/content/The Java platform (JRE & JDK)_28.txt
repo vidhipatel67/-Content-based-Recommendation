@@ -1,0 +1,1 @@
+<p>The JVM is an intelligent <i>virtual</i> processor. It has the ability to identify areas within the Java code itself that can be optimized for faster and better performance. Based on every successive run of your Java applications, the JVM would optimize it to run even better.</p>

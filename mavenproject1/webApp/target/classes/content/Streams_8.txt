@@ -1,0 +1,1 @@
+<p>In the <a href="#code-listing-1">following example</a>, we print "Hello world!" on the screen several times. The number of times the message is printed is stored in a file named <code>source.txt</code>. This file should only contain a integer and should be placed in the same folder of the <code>ConfiguredApplication</code> class.</p>

@@ -1,0 +1,1 @@
+<p>You can assign the created object reference to the class, super class, or to an interface the class implements:</p>

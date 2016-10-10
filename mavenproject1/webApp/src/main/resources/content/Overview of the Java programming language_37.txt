@@ -1,0 +1,1 @@
+<p>Platform independent Java is, however, very successful with server side applications, such as web services, servlets, or Enterprise JavaBeans.</p>

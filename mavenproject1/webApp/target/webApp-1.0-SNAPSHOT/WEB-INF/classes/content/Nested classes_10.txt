@@ -1,0 +1,1 @@
+<p>When in a non-static method of the outer class, you can directly use <code>new InnerClass()</code>, since the class instance is implied to be <code>this</code>.</p>

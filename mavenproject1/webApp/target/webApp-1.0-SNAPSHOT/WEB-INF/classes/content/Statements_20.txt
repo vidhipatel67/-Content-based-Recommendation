@@ -1,0 +1,1 @@
+<p>Note that after the assignment to <code>result</code> its value will not be changed if we assign different values to <code>firstNumber</code> or <code>secondNumber</code>, like in line 4.</p>

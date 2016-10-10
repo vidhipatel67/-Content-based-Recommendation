@@ -1,0 +1,1 @@
+<p>The name has not changed because the method has changed the reference and not the object itself. The behavior is the same as if the method was in-lined and the parameters were assigned to new variable names:</p>

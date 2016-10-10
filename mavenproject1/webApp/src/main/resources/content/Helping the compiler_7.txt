@@ -1,0 +1,1 @@
+<p><code>@SuppressWarnings(..)</code> SuppressWarnings tells the compiler not to report on some, or all, types of warnings. It can be applied to a type, a method or a variable. <a rel="nofollow" class="external autonumber" href="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/SuppressWarnings.html">[3]</a></p>

@@ -1,0 +1,1 @@
+<p>Also, we can make life easy on ourselves by just copying all the code we need to manage listeners over from the <code>NumberReader</code> class. Again, in a real program you'd want to do this differently. Note that each notification method implementation also passes the event on to all the real listeners:</p>

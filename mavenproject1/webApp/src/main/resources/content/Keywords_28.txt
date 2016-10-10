@@ -1,0 +1,1 @@
+<p>Jumps (breaks) out from a loop. Also used at <code><a href="/wiki/Java_Programming/Keywords/switch" title="Java Programming/Keywords/switch"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">switch</font></a></code> statement.</p>

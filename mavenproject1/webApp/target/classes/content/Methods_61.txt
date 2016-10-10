@@ -1,0 +1,1 @@
+<p>As a consequence, it cannot use the non-static methods of the class but it can use the static ones. The same way, it cannot use the non-static attributes of the class but it can use the static ones:</p>

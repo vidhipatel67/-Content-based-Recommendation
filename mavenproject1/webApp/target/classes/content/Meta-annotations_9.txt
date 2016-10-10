@@ -1,0 +1,1 @@
+<p>Exactly as the name sounds, an <code>@Inherited</code> annotation type is inherited by subclasses of an annotated type.</p>

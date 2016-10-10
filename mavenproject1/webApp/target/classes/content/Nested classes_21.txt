@@ -1,0 +1,1 @@
+<p>In the above example the class that implements the <code>ActionListener</code> is <b>anonymous</b>. The class is defined where it is instantiated.</p>

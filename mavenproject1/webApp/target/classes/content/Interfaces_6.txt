@@ -1,0 +1,1 @@
+<p>You can see that the <code>method1()</code> method is abstract (unimplemented). To use an interface, you have to define a class that implements it, using the <code><a href="/wiki/Java_Programming/Keywords/implements" title="Java Programming/Keywords/implements"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">implements</font></a></code> keyword:</p>

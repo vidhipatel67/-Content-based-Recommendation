@@ -1,0 +1,1 @@
+<p>Within string and character literals, the backslash character can be used to escape special characters, such as <a href="/wiki/Java_Programming/Syntax/Unicode_Escape_Sequences" title="Java Programming/Syntax/Unicode Escape Sequences" class="mw-redirect">unicode escape sequences</a>, or the following special characters:</p>

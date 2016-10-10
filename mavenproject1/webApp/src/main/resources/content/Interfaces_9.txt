@@ -1,0 +1,1 @@
+<p>If you have objects from different classes that do not have common superclasses, you can't call a same method on them, even if the two classes implement a method with the same signature.</p>

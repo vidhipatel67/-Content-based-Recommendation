@@ -1,0 +1,1 @@
+<p>In the <a href="#code-section-58">code section 3.58</a>, we defined an array that has three elements, each element contains an array having 5 elements. We could create the array having the 5 elements first and use that one in the initialize block.</p>

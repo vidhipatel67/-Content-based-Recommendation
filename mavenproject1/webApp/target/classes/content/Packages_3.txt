@@ -1,0 +1,1 @@
+<p><br> If your application becomes quite big, you may have lots of classes. Although you can browse them in their alphabetic order, it becomes confusing. So your application classes can be sorted into <i>packages</i>.</p>

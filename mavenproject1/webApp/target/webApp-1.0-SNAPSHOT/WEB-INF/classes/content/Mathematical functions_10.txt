@@ -1,0 +1,1 @@
+<p>There are several methods in the <code>Math</code> class that deal with exponential functions.</p>

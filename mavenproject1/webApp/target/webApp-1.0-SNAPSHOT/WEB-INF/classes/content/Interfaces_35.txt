@@ -1,0 +1,1 @@
+<p>You have to create an interface that defines the method <code>printLog(String)</code> and makes <code>ConsoleLogger</code> and <code>FileLogger</code> implement it:</p>

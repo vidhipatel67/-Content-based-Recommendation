@@ -1,0 +1,1 @@
+<p>On Mac OS, both the JRE and the JDK are already installed. However, the version installed was the latest version when the computer was purchased, so you may want to update it.</p>

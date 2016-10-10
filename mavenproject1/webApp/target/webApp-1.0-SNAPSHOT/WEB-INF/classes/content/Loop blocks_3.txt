@@ -1,0 +1,1 @@
+<p><br> Loops are a handy tool that enables programmers to do repetitive tasks with minimal effort. Say we want a program that can count from 1 to 10, we could write the <a href="#code-listing-4">following program</a>.</p>

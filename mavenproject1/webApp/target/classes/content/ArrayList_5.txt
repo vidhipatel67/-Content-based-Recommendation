@@ -1,0 +1,1 @@
+<p>Array lists are created with an initial size. When this size is exceeded, the collection is automatically enlarged. When objects are removed, the array may be shrunk.</p>

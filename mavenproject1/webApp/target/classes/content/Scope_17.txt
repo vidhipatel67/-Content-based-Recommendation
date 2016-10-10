@@ -1,0 +1,1 @@
+<p>Generally, it is best to make data private or protected. Access to the data is controlled by <i>setter</i> and <i>getter</i> methods. This lets the programmer control access to data, allowing him/her to check for and handle invalid data.</p>

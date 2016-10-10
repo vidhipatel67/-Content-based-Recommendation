@@ -1,0 +1,1 @@
+<p>An assertion checks if a condition is true:</p>

@@ -1,0 +1,1 @@
+<p>The simplest statement is a variable declaration:</p>

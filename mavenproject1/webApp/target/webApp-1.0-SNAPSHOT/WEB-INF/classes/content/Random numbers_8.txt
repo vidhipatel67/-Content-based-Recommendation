@@ -1,0 +1,1 @@
+<p>As an example using random numbers, we can make a program that uses a Random object to simulate flipping a coin 20 times:</p>

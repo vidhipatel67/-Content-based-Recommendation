@@ -1,0 +1,1 @@
+<p>65 is the numeric representation of character 'A' , or its <a href="//en.wikipedia.org/wiki/ASCII" class="extiw" title="w:ASCII">ASCII</a> code.</p>

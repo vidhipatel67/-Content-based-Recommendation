@@ -1,0 +1,1 @@
+<p>In order to clear everything up a bit, let's examine a simple example based on the Event Model framework. Let's assume that we want to write a program that reads a stream of numbers input by the user at the command line and processes this stream somehow. Say, by keeping track of the running sum of numbers and producing that sum once the stream has been completely read.</p>

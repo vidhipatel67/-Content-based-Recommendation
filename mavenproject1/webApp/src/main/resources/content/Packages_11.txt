@@ -1,0 +1,1 @@
+<p>The syntax above is a bit verbose. You can import the class by using the <code><a href="/wiki/Java_Programming/Keywords/import" title="Java Programming/Keywords/import"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">import</font></a></code> Java keyword at the top of the file and then only specify its name:</p>

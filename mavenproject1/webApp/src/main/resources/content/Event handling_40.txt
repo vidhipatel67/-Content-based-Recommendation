@@ -1,0 +1,1 @@
+<p>Actually the <code>numberStreamTerminated</code> method is a little weird, since it isn't actually a "number read" event. In a real program you'd probably want to do this differently. But let's keep things simple in this example.</p>

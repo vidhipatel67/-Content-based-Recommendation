@@ -1,0 +1,1 @@
+<p><br style="clear:both;"> Feel free to post any questions you have while learning Java Programming. If you have questions about this book, post them <a href="/wiki/Talk:Java_Programming" title="Talk:Java Programming">on the Java Programming discussion page</a>. If you know the answer to a question, or you can improve any, go ahead and do it.</p>

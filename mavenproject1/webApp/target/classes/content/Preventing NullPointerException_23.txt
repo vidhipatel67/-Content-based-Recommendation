@@ -1,0 +1,1 @@
+<p>An array created using <code>new Object[10]</code> has 10 null pointers. That's 10 more than we want, so use collections instead, or explicitly fill the array at initialization with:</p>

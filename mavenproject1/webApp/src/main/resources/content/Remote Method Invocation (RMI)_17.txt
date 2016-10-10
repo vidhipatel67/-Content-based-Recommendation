@@ -1,0 +1,1 @@
+<p>However, exported remote objects passed as parameters are passed by remote reference.</p>

@@ -1,0 +1,1 @@
+<p>Any valid variable names might be correct but they are not always what you should be naming your variables for a few reasons as listed below:</p>

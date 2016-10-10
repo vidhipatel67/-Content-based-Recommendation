@@ -1,0 +1,1 @@
+<p>The <code>BigInteger</code> class cannot handle decimal numbers. The <code>BigDecimal</code> class represents a floating point value of arbitrary precision. It is composed of both a <code>BigInteger</code>, and a scale value (represented by a 32-bit integer).</p>

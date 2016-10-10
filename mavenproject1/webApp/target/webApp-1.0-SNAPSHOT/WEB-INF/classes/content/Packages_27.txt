@@ -1,0 +1,1 @@
+<p>The above is simplified, and demands that <code>MainClass</code> be in the default package, or a package called <code>source</code>, which isn't very desirable.</p>

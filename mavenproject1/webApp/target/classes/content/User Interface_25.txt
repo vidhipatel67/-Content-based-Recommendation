@@ -1,0 +1,1 @@
+<p>It is not necessary to initialize the font and set the font through two different lines of code.</p>

@@ -1,0 +1,1 @@
+<p><br> In a multi-threaded environment, when more than one thread can access and modify a resource, the outcome could be unpredictable. For example, let's have a counter variable that is incremented by more than one thread.</p>

@@ -1,0 +1,1 @@
+<p>The Java event model realizes the observer design pattern with the effect that the inter-component coupling is reduced. Method calls require tight coupling, as caller and receiver need to know each other at compile time, while with events all communication happens solely via interfaces.</p>

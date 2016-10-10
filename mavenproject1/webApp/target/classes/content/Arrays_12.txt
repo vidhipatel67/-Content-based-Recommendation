@@ -1,0 +1,1 @@
+<p>At line 1, we instantiate an array of 10 items with non-initialized items. At line 2, we instantiate an array of 10 given items. It will each be given an index according to its order. We can know the size of the array using the <code>length</code> attribute:</p>

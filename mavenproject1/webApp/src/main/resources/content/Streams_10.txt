@@ -1,0 +1,1 @@
+<p>The <code>close()</code> method is not always mandatory but can avoid some inter-process concurrency conflicts. However if it occurs before a <code>read()</code> or <code>write()</code> (in the same process) they return the warning <code>Stream closed</code>.</p>

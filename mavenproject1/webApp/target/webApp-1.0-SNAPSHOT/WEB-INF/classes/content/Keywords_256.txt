@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/strictfp" title="Java Programming/Keywords/strictfp"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">strictfp</font></a></code> is a java keyword, since Java 1.2 .</p>

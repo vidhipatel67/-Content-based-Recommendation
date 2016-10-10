@@ -1,0 +1,1 @@
+<p>Of course, to make the adaptor work we have to make some changes to the bootstrap code:</p>

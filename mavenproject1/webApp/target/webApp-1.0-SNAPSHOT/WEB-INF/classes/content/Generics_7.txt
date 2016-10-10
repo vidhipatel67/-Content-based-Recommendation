@@ -1,0 +1,1 @@
+<p>But you will have <code>ClassCastException</code> at runtime again and you can't easily use your field. The solution is to use <a href="//en.wikipedia.org/wiki/Generic_programming" class="extiw" title="w:Generic programming">Generics</a>.</p>

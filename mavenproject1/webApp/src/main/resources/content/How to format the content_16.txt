@@ -1,0 +1,1 @@
+<p>When just a small section of code is shown, the code template may be used as follows:</p>

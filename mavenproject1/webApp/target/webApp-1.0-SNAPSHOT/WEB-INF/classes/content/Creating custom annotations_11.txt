@@ -1,0 +1,1 @@
+<p>Now, for instance, you want the annotation to know that if no value for the <code>version</code> element is present, then it should use a <i><b>default value</b></i>. Declaring a default value would be done the following way.</p>

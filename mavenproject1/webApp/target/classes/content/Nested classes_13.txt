@@ -1,0 +1,1 @@
+<p>An inner class can be declared <i>static</i>. These classes are not bound to an instance of the outer defining class. A static inner class has no enclosing instance, and therefore cannot access instance variables and methods of the outer class. You do not specify an instance when creating a static inner class. This is equivalent to the inner classes in C++.</p>

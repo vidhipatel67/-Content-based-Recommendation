@@ -1,0 +1,1 @@
+<p>The Java language introduces some new features that did not exist in other languages like C and C++.</p>

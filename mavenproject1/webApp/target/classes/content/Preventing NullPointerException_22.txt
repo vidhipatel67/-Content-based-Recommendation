@@ -1,0 +1,1 @@
+<p>You might also consider replacing null with "" in the first example, but default values bring about bugs caused by default values being left in place. A <code>NullPointerException</code> is actually better, as it allows the runtime to tell you about the bug, rather than just continue with a default value.</p>

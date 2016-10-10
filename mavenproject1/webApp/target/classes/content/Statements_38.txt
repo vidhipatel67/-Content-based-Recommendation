@@ -1,0 +1,1 @@
+<p>Conditional branching is attained with the help of the <code>if...else</code> and <code>switch</code> statements. A conditional branch occurs only if a certain condition expression evaluates to true.</p>

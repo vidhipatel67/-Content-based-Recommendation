@@ -1,0 +1,1 @@
+<p>Those syntaxes are identical but the first one is recommended. It can also be instantiated in several ways:</p>

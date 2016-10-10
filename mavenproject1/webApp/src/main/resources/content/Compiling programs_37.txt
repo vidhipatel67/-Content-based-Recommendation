@@ -1,0 +1,1 @@
+<p>Using <a href="/wiki/Java_Programming/Compilation#Ant" title="Java Programming/Compilation">Ant</a> you would build your application from the command line by typing:</p>

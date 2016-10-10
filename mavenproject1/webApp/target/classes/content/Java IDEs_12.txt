@@ -1,0 +1,1 @@
+<p>Processing is an <b>enhanced</b> IDE. It adds some extra commands and a simplified programming model. This makes it much easier for beginners to start programming in Java. It was designed to help graphic artists learn a bit of programming without struggling too much. Processing runs on Windows, GNU/Linux and Mac OS X platforms.</p>

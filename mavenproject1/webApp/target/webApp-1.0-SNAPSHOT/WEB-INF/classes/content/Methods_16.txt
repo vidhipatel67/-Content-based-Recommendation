@@ -1,0 +1,1 @@
+<p>The primitive types are <i>passed in by value</i>. It means that as soon as the primitive type is passed in, there is no more link between the value inside the method and the source variable:</p>

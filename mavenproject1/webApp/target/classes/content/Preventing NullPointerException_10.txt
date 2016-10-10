@@ -1,0 +1,1 @@
+<p>Now we will describe how to prevent <code>NullPointerException</code>. It does not describe general techniques for how you should program Java. It is of some use, to make you more aware of null values, and to be more careful about generating them yourself.</p>

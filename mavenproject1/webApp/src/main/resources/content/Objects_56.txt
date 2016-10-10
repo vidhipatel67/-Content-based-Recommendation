@@ -1,0 +1,1 @@
+<p>Since associative arrays depend on both the <code>equals</code> and <code>hashCode</code> methods, there is an important contract between these two methods that must be maintained if the objects are to be inserted into a <code>Map</code>:</p>

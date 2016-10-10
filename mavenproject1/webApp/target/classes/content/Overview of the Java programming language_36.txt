@@ -1,0 +1,1 @@
+<p>In Java, standardized libraries are provided to allow access to features of the host machines (such as graphics and networking) in unified ways. The Java language also includes support for multi-threaded programs—a necessity for many networking applications.</p>

@@ -1,0 +1,1 @@
+<p>This string can later be extracted using various methods, as you can see in the <a href="#code-listing-2">code listing 6.2</a>.</p>

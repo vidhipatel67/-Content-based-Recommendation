@@ -1,0 +1,1 @@
+<p>In order to print, we invoke the <code>println()</code>. This is an instance method from <code>java.io.PrintStream</code>, which is the type of the static field <code>out</code> in the class <code>java.lang.System</code>. The Java VM binds <code>System.out</code> to the standard output stream when it starts a program.</p>

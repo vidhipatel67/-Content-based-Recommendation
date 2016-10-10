@@ -1,0 +1,1 @@
+<p>The demo calls a method <code>runCommand</code> to actually run the program.</p>

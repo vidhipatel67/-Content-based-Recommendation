@@ -1,0 +1,1 @@
+<p><b>Note:</b><br> Instead of using the declaration with the class, the annotation is used with the method <code>doSomething()</code>. This might not demonstrate the power of annotations yet, but more will be explored in later chapters.</p>

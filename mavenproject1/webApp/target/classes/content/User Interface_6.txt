@@ -1,0 +1,1 @@
+<p>In Java applets, graphical portions are initialized and added in two different areas. While objects are initialized in the main class, they are added to the layout of the applet in the <code>init()</code> method. This is done using the syntax of <i><code>add(&lt;object&gt;)</code></i>. A typical <code>init()</code> method looks something like this:</p>

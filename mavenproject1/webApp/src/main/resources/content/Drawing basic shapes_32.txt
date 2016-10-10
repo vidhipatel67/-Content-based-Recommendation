@@ -1,0 +1,1 @@
+<p><b>Question 9.3</b>: Throughout the exercise listings above, we have been filling the shapes first and then drawing their outlines. What happens if we do it the other way around? Consider the code below.</p>

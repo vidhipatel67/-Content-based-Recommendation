@@ -1,0 +1,1 @@
+<p>Primitive wrapper objects were Java's way of allowing one to treat primitive data types as though they were objects. Consequently, one was expected to <i>wrap</i> one's primitive data type with the corresponding primitive wrapper object, as shown above.</p>

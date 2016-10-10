@@ -1,0 +1,1 @@
+<p>The primary purpose of this book is to teach the Java programming language to an audience of beginners, but its progressive layout of tutorials increasing in complexity, it can be just as helpful for intermediate and experienced programmers. Thus, this book is meant to be used as:</p>

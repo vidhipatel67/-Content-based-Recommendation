@@ -1,0 +1,1 @@
+<p><br> Annotations can be viewed as a source of defining meta-data for a piece of code in Java. The annotation <code>@CodeDescription</code> used in the following sections does not come as a part of the Java API.</p>

@@ -1,0 +1,1 @@
+<p>The <code>Math.E</code> constant represents the value of <a href="//en.wikipedia.org/wiki/Euler%27s_number" class="extiw" title="w:Euler's number">Euler's number</a> (<i>e</i>), the base of the natural logarithm.</p>

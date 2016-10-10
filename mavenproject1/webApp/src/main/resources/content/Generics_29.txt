@@ -1,0 +1,1 @@
+<p>You can specify a restriction on the types of classes that may be used. For example, <code>&lt;? extends ClassName&gt;</code> only allows objects of class <code>ClassName</code> or a subclass. For example, to create a collection that may only contain "Serializable" objects, specify:</p>

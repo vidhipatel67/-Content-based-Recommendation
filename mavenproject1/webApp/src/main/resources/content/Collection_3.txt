@@ -1,0 +1,1 @@
+<p>The most basic collection interface is called <code>Collection</code>. This interface gives the user a generic usage of a collection. All collections need to have the same basic operations. Those are:</p>

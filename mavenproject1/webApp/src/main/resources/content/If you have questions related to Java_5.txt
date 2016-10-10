@@ -1,0 +1,1 @@
+<p>Generics come from other languages, see article on <a href="//en.wikipedia.org/wiki/Generic_programming" class="extiw" title="w:Generic programming">w:Generic programming</a> for more information.</p>

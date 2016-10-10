@@ -1,0 +1,1 @@
+<p>In Java, a class is located in a file similar to its own name. If you want to have a class called <code>SportsCar</code>, its source file needs to be <code>SportsCar.java</code>. The class is created by placing the following in the source file:</p>

@@ -1,0 +1,1 @@
+<p>There is no direct implementation for the <code>java.util.Collection</code> interface. The Collection interface has five sub interfaces.</p>

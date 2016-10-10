@@ -1,0 +1,1 @@
+<p>Java has besides arithmetic operators a set of bit operators to manipulate the bits in a number, and a set of logical operators. The bitwise logical operators are</p>

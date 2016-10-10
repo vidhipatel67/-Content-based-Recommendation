@@ -1,0 +1,1 @@
+<p>To understand the structure of a <code>for-each</code> loop, look at the following example:</p>

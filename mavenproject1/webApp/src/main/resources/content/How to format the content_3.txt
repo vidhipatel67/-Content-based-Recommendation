@@ -1,0 +1,1 @@
+<p><br> These conventions are aimed to increase the readability and the comprehension of the Java Programming Wikibook. It completes the <a href="/wiki/Wikibooks:MOS" title="Wikibooks:MOS" class="mw-redirect">Wikibooks Manual of Style</a>. However exceptions can be made if needed. If you find it too complex to follow, add the content rawly. It will be formatted by someone.</p>

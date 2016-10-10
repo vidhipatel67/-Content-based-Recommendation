@@ -1,0 +1,1 @@
+<p>This application writes a string "testing" to standard output, and then terminates with an exit status of 0. To execute this simple program within a Java application, compile the C application:</p>

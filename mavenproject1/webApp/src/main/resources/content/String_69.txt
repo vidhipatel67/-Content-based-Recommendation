@@ -1,0 +1,1 @@
+<p>The <code>String</code> class also allows for the modification of cases. The two methods that make this possible are <code>toLowerCase()</code> and <code>toUpperCase()</code>.</p>

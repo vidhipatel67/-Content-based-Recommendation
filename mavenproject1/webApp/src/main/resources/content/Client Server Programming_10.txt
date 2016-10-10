@@ -1,0 +1,1 @@
+<p>A client code for a server/service is usually an API that a user application uses to interface to the server. With the help of a client API the user application does not have to know how to connect to the server to get services.</p>

@@ -1,0 +1,1 @@
+<p>Use notes only when it is necessary. A note is less readable than paragraphs.</p>

@@ -1,0 +1,1 @@
+<p>A class with this package declaration</p>

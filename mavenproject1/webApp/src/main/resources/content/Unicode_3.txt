@@ -1,0 +1,1 @@
+<p><br> Most Java program text consists of <a href="//en.wikipedia.org/wiki/ASCII" class="extiw" title="wikipedia:ASCII">ASCII</a> characters, but any Unicode character can be used as part of identifier names, in comments, and in character and string literals. For example, ? (which is the Greek Lowercase Letter <b>pi</b>) is a valid Java identifier:</p>

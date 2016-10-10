@@ -1,0 +1,1 @@
+<p>If you change this to <code>import javax.swing.JFraim;</code> the error will be at the import instead of within your code.</p>

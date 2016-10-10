@@ -1,0 +1,1 @@
+<p>By convention, subsequent lines of slash-star comments begin with a star aligned under the star in the open comment sequence, but this is not required. Never nest a slash-star comment in another slash-star comment. If you accidentally nest such comments, you will probably get a syntax error from the compiler soon after the first star-slash sequence.</p>

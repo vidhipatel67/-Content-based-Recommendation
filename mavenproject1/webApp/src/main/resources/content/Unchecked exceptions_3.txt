@@ -1,0 +1,1 @@
+<p><br> Unchecked, uncaught or runtime exceptions are exceptions that are not required to be caught or declared, even if it is allowed to do so. So a method can throw a runtime exception, even if this method is not supposed to throw exceptions. For example, <code>ConcurrentModificationException</code> is an unchecked exception.</p>

@@ -1,0 +1,1 @@
+<p>The thread calling <code>wait</code> is blocked (removed from the set of executable threads) and added to the object's wait list. The thread remains in the object's wait list until one of three events occurs:</p>

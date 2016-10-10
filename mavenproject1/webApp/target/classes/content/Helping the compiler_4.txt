@@ -1,0 +1,1 @@
+<p>You can issue directive to the compiler in the shape of three pre-defined annotation to tell it what sort of pre-processing a certain bit of code requires. The three annotations are:</p>

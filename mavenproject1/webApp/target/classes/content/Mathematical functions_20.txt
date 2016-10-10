@@ -1,0 +1,1 @@
+<p>Java provides inverse counterparts to the trigonometric functions: <code>Math.<b>asin</b>(x)</code>, and <code>Math.<b>acos</b>(x)</code>, <code>Math.<b>atan</b>(x)</code>.</p>

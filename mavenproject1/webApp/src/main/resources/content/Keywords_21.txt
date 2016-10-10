@@ -1,0 +1,1 @@
+<p>Assertions are usually used as a debugging aid. They should not be used instead of validating arguments to public methods, or in place of a more precise runtime error exception.</p>

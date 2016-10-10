@@ -1,0 +1,1 @@
+<p>The code inside the finally block will always be executed. This is also true for cases when there is an exception or even executed <code><a href="/wiki/Java_Programming/Keywords/return" title="Java Programming/Keywords/return"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">return</font></a></code> statement in the try block.</p>

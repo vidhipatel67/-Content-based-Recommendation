@@ -1,0 +1,1 @@
+<p>An <code>else-if</code> block may be used when multiple conditions need to be checked. <code>else-if</code> statements come after the <code>if</code> block, but before the <code>else</code> block. The structure of an <code>if</code> block is as follows:</p>

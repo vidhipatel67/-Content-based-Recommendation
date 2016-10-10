@@ -1,0 +1,1 @@
+<p>The <code>Collection</code> interface defines the following basic operations:</p>

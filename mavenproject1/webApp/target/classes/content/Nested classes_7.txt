@@ -1,0 +1,1 @@
+<p>An inner object has a reference to the outer object. In other words, all inner objects are tied to the outer object. The inner object can only be created through a reference to the 'outer' object. See below.</p>

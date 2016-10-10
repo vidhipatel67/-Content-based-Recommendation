@@ -1,0 +1,1 @@
+<p>Using stylish fonts in your Java applets may be necessary to help keep your Java applets attractive. The <code>setFont()</code> allows for either the font used throughout the applet to be defined or for one element's font to be set at a time.</p>

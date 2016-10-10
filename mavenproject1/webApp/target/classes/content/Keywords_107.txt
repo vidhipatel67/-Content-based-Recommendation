@@ -1,0 +1,1 @@
+<p>The <code>final</code> keyword only allows a single assignment for the variable. That is to say, once the variable has been assigned, its value is in read-only. If the variable is a primitive type, its value will no longer change. If it is an object, only its reference will no longer change. Keep in mind that its value can still be changed.</p>

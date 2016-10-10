@@ -1,0 +1,1 @@
+<p>Now, let's see how to make the Customer object cloneable.</p>

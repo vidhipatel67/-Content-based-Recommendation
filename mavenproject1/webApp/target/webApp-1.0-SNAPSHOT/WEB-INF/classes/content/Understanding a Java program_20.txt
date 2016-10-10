@@ -1,0 +1,1 @@
+<p><code>&nbsp;&nbsp;private java.awt.Point point0, point1;</code></p>

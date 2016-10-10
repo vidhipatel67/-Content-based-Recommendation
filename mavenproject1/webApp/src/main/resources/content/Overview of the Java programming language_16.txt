@@ -1,0 +1,1 @@
+<p>... because the compiled file is a machine code file designed to work on a specific platform and hardware. It would have produced a different results/output for another platform. So if you want your program to run on several platforms, you have to compile your program several times:</p>

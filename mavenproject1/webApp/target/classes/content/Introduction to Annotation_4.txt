@@ -1,0 +1,1 @@
+<p>In Java, an <i><b>annotation</b></i> is a language construct that was introduced in J2SE 1.5 that provides a mechanism for including metadata directly in the source code.</p>

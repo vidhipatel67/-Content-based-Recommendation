@@ -1,0 +1,1 @@
+<p>Java 1.5 and 1.6 introduced several non-mathematical functions specific to the computer floating-point representation of numbers.</p>

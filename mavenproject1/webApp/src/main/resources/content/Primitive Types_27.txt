@@ -1,0 +1,1 @@
+<p>But, what about larger numbers. You would need significantly more bits to hold larger numbers. That's where Java's numeric types come into play. Java has multiple numeric types — their size dependant on the number of bits that are at play.</p>

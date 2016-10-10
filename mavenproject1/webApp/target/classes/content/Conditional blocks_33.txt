@@ -1,0 +1,1 @@
+<p>This evaluates <code>boolean expression<sub>1</sub></code>, and if it is <code>true</code> then the conditional expression has the value of <code>expression<sub>1</sub></code>; otherwise the conditional expression has the value of <code>expression<sub>2</sub></code>.</p>

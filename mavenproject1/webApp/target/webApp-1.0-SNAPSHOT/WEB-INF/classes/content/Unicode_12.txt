@@ -1,0 +1,1 @@
+<p>? may also be represented in Java as the <i>Unicode escape sequence</i> <code>\u03C0</code>. Thus, the following is a valid, but not very readable, declaration and assignment:</p>

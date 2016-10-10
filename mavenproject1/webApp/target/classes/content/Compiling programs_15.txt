@@ -1,0 +1,1 @@
+<p>If you obtain an error message like <code>Exception in thread "main" java.lang.NoSuchMethodError: main</code>, your source file may have been badly written.</p>

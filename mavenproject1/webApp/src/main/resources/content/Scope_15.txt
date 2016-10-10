@@ -1,0 +1,1 @@
+<p>A general guideline for visibilities is to only make a member as visible as it needs to be. Don't make a member public if it only needs to be private.</p>

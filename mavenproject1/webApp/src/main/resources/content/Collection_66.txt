@@ -1,0 +1,1 @@
+<p>The above code just iterates through the passed in collection and adds the elements to the linked list. You do not have to do that, since that is already defined. What you might need to code for is to loop through a <code>Customer</code> collection:</p>

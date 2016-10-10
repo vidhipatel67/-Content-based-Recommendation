@@ -1,0 +1,1 @@
+<p>By convention, a constructor that accepts an object of its own type as a parameter and copies the data members is called a <i>copy constructor</i>. One interesting feature of constructors is that if and only if you do not specify a constructor in your class, the compiler will create one for you. This default constructor, if written out would look like:</p>

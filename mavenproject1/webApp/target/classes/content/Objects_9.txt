@@ -1,0 +1,1 @@
+<p>The objects are different from the primitive types because:</p>

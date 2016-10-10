@@ -1,0 +1,1 @@
+<p>In the <a href="#code-listing-2">following example</a>, we store the current time in an already existing file called <code>log.txt</code> located in the same folder than the class.</p>

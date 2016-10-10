@@ -1,0 +1,1 @@
+<p>Any and all characters in a program may be expressed in Unicode escape characters, but such programs are not very readable, except by the Java compiler - in addition, they are not very compact.</p>

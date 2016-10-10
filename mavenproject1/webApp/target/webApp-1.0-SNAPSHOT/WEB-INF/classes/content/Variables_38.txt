@@ -1,0 +1,1 @@
+<p>Now that we know how variables should be named, let us look at the values of those variables. Simple values like numbers are called <i>literals</i>. This section shows you what literals are and how to use them. Consider the following code:</p>

@@ -1,0 +1,1 @@
+<p>When an object is created, a reference to the object is also created. The object can not be accessed directly in Java, only through this object reference. This object reference has a <i>type</i> assigned to it. We need this type when passing the object reference to a method as a parameter. Java does strong type checking.</p>

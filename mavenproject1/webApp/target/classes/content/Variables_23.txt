@@ -1,0 +1,1 @@
+<p>There are various ways by which you can streamline the writing of this code. You can group the declarations of similar data types in one statement, for instance:</p>

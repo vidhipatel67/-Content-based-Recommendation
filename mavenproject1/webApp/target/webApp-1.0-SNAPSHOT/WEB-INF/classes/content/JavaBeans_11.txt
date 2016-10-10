@@ -1,0 +1,1 @@
+<p><code>isDiscounted()</code> would be the getter method for a boolean property named <code>discounted</code>. Thus, the method signature of most getters is <code>public <i>PropertyType</i> get<i>PropertyName</i>()</code> or <code>public boolean is<i>PropertyName</i>()</code>.</p>

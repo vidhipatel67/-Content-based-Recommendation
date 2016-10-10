@@ -1,0 +1,1 @@
+<p>Here are the truth tables for the boolean operators:</p>

@@ -1,0 +1,1 @@
+<p>It starts a try block. If an Exception is thrown inside a try block, the Exception will be compared any of the catch part of the block. If the Exception match with one of the Exception in the catch part, the exception will be handled there.</p>

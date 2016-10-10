@@ -1,0 +1,1 @@
+<p>There have been some discussions about the usage of <code>applet</code> tag but it still can be used for beginning and also would work in the real world as well.</p>

@@ -1,0 +1,1 @@
+<p>In the above code, all business logic exception are handled in the <code>handleRequest()</code> method. Runtime exceptions are caught for logging purposes, and then thrown back to the server to handle it.</p>

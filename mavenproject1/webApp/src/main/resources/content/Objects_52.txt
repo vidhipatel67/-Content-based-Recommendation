@@ -1,0 +1,1 @@
+<p>The <code>finalize</code> method should always be declared <code>protected</code> to prevent other classes from calling the <code>finalize</code> method.</p>

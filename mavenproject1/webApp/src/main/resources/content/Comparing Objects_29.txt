@@ -1,0 +1,1 @@
+<p>An array of objects can also be sorted with the help of a <code>Comparator</code>.</p>

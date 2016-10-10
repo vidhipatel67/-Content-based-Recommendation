@@ -1,0 +1,1 @@
+<p>Used at method declaration and definition to specify that the method does not return any type, the method returns <code><a href="/wiki/Java_Programming/Keywords/void" title="Java Programming/Keywords/void"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">void</font></a></code>. It is not a type and there is no void references/pointers as in C/C++.</p>

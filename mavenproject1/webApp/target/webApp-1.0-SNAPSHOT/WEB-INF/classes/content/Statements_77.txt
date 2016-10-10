@@ -1,0 +1,1 @@
+<p>The foreach statement allows you to iterate through all the items in a collection, examining each item in turn while still preserving its type. The syntax for the foreach statement is:</p>

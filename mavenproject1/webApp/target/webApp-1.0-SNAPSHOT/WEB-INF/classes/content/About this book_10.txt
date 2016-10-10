@@ -1,0 +1,1 @@
+<p>This book is divided to sections. Pages are grouped together into section topics. To make this book expandable in the future via the addition of new sections, the sections navigation-wide are independent from each other. Each section can be considered as a mini book by itself. Pages that belong to the same topic can be navigated by the links on the right hand side.</p>

@@ -1,0 +1,1 @@
+<p>The <code>build.xml</code> file contains all the information needed to build the application.</p>

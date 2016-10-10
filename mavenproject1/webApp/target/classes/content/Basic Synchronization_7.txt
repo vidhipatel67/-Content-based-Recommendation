@@ -1,0 +1,1 @@
+<p>Let's say that two threads need to execute that code, and if the initial value of the <code>counter</code> variable is zero, we expect after the operations the value to be 2.</p>

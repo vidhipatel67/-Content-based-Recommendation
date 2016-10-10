@@ -1,0 +1,1 @@
+<p>To make every font in the applet plain, size 24 Times New Roman, the following code should be used:</p>

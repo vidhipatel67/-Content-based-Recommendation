@@ -1,0 +1,1 @@
+<p>Each cell can contain a <i>binary digit</i> (shortened to <i>bit</i>), that is to say, zero or one:</p>

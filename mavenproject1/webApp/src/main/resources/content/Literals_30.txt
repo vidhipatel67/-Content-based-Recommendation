@@ -1,0 +1,1 @@
+<p>The unexpected results arise because <code><font style="color:DarkBlue; text-decoration: none; font-weight: bold;">'1'</font></code> and <code><font style="color:DarkBlue; text-decoration: none; font-weight: bold;">'0'</font></code> are converted twice. The expression is concatenated as such:</p>

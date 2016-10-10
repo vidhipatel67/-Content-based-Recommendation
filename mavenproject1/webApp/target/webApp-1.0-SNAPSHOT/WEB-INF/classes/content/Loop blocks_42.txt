@@ -1,0 +1,1 @@
+<p>The example iterates through an array of words and prints them out like a sentence. What the loop does is iterate through <code>sentence</code> and assign the value of each index to <code>word</code>, then execute the code block.</p>

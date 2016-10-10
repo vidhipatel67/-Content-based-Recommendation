@@ -1,0 +1,1 @@
+<p><a href="/wiki/Java_Programming/Arrays" title="Java Programming/Arrays">Arrays</a> haven't been covered yet, but you'll want to know how to use the enhanced for loop, called the <code>for-each</code> loop. The <code>for-each</code> loop automatically iterates through a list or array and assigns the value of each index to a variable.</p>

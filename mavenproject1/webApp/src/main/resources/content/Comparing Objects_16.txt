@@ -1,0 +1,1 @@
+<p>Objects that implement this interface can be used as keys in a sorted map or elements in a sorted set, without the need to specify a comparator.</p>

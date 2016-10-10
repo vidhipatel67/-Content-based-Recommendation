@@ -1,0 +1,1 @@
+<p>No. Keywords are resirved by the compiler and can not be used for variables.</p>

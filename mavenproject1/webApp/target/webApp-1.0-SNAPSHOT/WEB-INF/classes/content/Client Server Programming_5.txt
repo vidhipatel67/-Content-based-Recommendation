@@ -1,0 +1,1 @@
+<p>Java language was developed having network computing in mind. For this reason it is very easy to create a server program. A server is a piece of code that runs all the time listening on a particular port on the computer for incoming request. When a request arrives, it starts a new thread to service the request. See the following example:<br style="clear:both;"></p>

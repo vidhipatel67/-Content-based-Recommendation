@@ -1,0 +1,1 @@
+<p>Since applets provide for the ability to create complex GUI, it is important for developers to know how to create such programs.</p>

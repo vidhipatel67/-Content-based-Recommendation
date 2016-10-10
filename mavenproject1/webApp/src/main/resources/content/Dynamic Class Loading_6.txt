@@ -1,0 +1,1 @@
+<p>Unlike other dynamic class loading techniques, this can be used even without security permission provided the classes come from the same Web domain as the caller. Once a <code>ClassLoader</code> instance is obtained, a class can be loaded via the <code>loadClass</code> method. For example, to load the class <code>com.example.MyClass</code>, one would:</p>

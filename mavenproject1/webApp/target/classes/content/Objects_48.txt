@@ -1,0 +1,1 @@
+<p>The <code>java.lang.Object.clone()</code> method returns a new object that is a copy of the current object. Classes must implement the marker interface <code>java.lang.Cloneable</code> to indicate that they can be cloned.</p>

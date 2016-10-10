@@ -1,0 +1,1 @@
+<p>A minimal Jini network environment consists of:</p>

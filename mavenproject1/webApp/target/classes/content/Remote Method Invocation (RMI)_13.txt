@@ -1,0 +1,1 @@
+<p>If <i>port</i> is not specified the default 1099 is used. The client will need to connect to this <i>port</i> to access the Registry.</p>

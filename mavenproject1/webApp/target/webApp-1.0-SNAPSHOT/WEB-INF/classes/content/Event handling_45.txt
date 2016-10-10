@@ -1,0 +1,1 @@
+<p>Let's start by thinking about keeping track of listeners. Normally this is a tricky business, since you have to take all sorts of multithreading concerns into account. But we're being simple in this example, so let's just stick with a simple <code>java.util.Set</code> of listeners. Which we can initialize in the constructor:</p>

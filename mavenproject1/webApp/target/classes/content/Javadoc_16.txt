@@ -1,0 +1,1 @@
+<p>The documentation can be generated in a specific folder (C:\ProgDoc for example) with the following command:</p>

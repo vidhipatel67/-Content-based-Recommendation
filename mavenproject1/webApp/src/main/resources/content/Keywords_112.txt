@@ -1,0 +1,1 @@
+<p>A final variable is often used for universal constants, such as <a href="//en.wikipedia.org/wiki/pi" class="extiw" title="w:pi">pi</a>:</p>

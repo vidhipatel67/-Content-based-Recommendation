@@ -1,0 +1,1 @@
+<p>When you compare a variable with a string literal, most of people would do that this way:</p>

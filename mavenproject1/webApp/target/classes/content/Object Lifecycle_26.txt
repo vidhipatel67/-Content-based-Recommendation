@@ -1,0 +1,1 @@
+<p>If the object needs to write or provide a replacement object during serialization, it needs to implement the following two methods, with any access specifier:</p>

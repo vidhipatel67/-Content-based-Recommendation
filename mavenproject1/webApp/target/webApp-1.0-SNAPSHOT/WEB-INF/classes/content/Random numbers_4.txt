@@ -1,0 +1,1 @@
+<p>The following code returns a random integer between n and m (where <i>n &lt;= randomNumber &lt; m</i>):</p>

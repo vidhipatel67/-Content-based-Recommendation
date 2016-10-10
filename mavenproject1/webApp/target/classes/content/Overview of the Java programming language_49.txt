@@ -1,0 +1,1 @@
+<p>This feature comes in handy especially in network programming when we do not know, beforehand, what code will be executed. A running program could load classes from the file system or from a remote server.</p>

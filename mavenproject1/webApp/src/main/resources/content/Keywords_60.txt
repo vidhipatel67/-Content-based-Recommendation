@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/class" title="Java Programming/Keywords/class"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">class</font></a></code> is a Java keyword which begins the declaration and definition of a <a href="/wiki/Java_Programming/Classes_and_Objects" title="Java Programming/Classes and Objects">class</a>.</p>

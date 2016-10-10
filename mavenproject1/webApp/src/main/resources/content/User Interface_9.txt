@@ -1,0 +1,1 @@
+<p>Lots of applets use buttons. There are only a few ways to have contact between the applet and the user, and the use of buttons is one of those ways. Buttons are created the same way as most other Java applet objects:</p>

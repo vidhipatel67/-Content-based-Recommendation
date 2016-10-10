@@ -1,0 +1,1 @@
+<p>In a list collection, the elements are put in a certain order, and can be accessed by an index. Duplicates are allowed, the same element can be added twice to a list. It has the following implementations:</p>

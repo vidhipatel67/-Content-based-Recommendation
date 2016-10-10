@@ -1,0 +1,1 @@
+<p>The preceding exception could have been created explicitly by the developer as it is the case in the following code:</p>

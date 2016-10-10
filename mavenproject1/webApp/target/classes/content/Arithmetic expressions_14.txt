@@ -1,0 +1,1 @@
+<p><code>int x = 10;</code> =&gt; 10<br> <code>x = x + 10;</code> =&gt; 20<br> <code>x = 2 * x;</code> =&gt; 40<br> <code>x = x - 19;</code> =&gt; 21<br> <code>x = x / 3;</code> =&gt; 7<br></p>

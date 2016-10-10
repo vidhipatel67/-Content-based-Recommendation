@@ -1,0 +1,1 @@
+<p>Properties are often implemented with <a href="/wiki/Java_Programming/Scope" title="Java Programming/Scope">private</a> <a href="/wiki/Java_Programming/Variables" title="Java Programming/Variables">instance variables</a>, but this is not required.</p>

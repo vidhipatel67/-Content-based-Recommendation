@@ -1,0 +1,1 @@
+<p>The <code>BigInteger</code> class represents integers of almost any size. As with other objects, they need to be constructed. Unlike regular numbers, the <code>BigInteger</code> represents an immutable object - methods in use by the <code>BigInteger</code> class will return a new copy of a <code>BigInteger</code>.</p>

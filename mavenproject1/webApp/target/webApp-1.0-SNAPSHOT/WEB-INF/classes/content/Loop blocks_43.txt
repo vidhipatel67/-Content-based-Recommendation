@@ -1,0 +1,1 @@
+<p>Here is the general contract of the <code>for-each</code> loop:</p>

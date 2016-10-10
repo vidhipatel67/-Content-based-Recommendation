@@ -1,0 +1,1 @@
+<p>Each <code>assert</code> statement is ended by a semi-colon (<code>;</code>). However, assertions are disabled by default, so you must run the program with the <i>-ea</i> argument in order for assertions to be enabled (<code>java -ea [name of compiled program]</code>).</p>

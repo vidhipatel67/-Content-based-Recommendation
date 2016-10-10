@@ -1,0 +1,1 @@
+<p>The monitoring and management tools are intended for monitoring and managing the virtual machine and the execution environment. They allow, for example, monitoring memory usage during the execution of a Java program.</p>

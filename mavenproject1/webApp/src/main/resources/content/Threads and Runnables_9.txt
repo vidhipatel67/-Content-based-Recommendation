@@ -1,0 +1,1 @@
+<p>In the above code, we create a class called <code>RunnableProcess</code> and implement the <code>Runnable</code> interface to ensure that we have a <code>run()</code> method in the class declaration.</p>

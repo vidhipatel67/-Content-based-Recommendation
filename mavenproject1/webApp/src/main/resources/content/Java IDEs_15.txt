@@ -1,0 +1,1 @@
+<p>By default it doesn't display the line numbers, so this should be ticked into Options\Preferences...</p>

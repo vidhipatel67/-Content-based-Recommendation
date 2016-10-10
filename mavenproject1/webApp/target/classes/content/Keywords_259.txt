@@ -1,0 +1,1 @@
+<p>Syntax for methods:</p>

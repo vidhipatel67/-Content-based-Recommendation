@@ -1,0 +1,1 @@
+<p>Floating point numbers are expressed as decimal fractions or as exponential notation:</p>

@@ -1,0 +1,1 @@
+<p>Java ignores all whitespace in front of a statement. As this, these two code snippets are identical for the compiler:</p>

@@ -1,0 +1,1 @@
+<p>Also referred to as <i><code><a href="/wiki/Java_Programming/Keywords/if" title="Java Programming/Keywords/if"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">if</font></a></code> statements</i>, these allow a program to perform a test and then take action based on the result of that test.</p>

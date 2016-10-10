@@ -1,0 +1,1 @@
+<p>Suppose your byte-code is called <code>SomeApplication.class</code>. If you want to execute this Java byte-code, you would need to use the following command in Command Prompt (on Windows) or Terminal (on Linux or Mac OS):</p>

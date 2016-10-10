@@ -1,0 +1,1 @@
+<p>So a JVM should be coded for each platform. And that's the case. So you just have to generate a unique byte code file (a <code>.class</code> file).</p>

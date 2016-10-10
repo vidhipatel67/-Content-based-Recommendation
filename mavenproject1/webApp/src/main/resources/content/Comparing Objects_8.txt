@@ -1,0 +1,1 @@
+<p>The implementor decides which values must be equal to consider two objects to be equal. For example in the <a href="#code-listing-5">below class</a>, the <code>name</code> and the <code>address</code> must be equal but not the <code>description</code>.</p>

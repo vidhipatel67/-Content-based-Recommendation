@@ -1,0 +1,1 @@
+<p>The Java boolean operators are based on the operations of the <a href="//en.wikipedia.org/wiki/Boolean_algebra" class="extiw" title="wikipedia:Boolean algebra">boolean algebra</a>. The boolean operators operate directly on boolean values.</p>

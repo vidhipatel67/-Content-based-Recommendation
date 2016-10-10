@@ -1,0 +1,1 @@
+<p>For example, this script displays the HTML <i>b</i> tags contents:</p>

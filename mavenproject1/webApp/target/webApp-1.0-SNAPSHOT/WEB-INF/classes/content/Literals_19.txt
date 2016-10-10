@@ -1,0 +1,1 @@
+<p>String literals consist of the double quote character (<code>"</code>) (ASCII 34, hex 0x22), zero or more characters (including Unicode characters), followed by a terminating double quote character (<code>"</code>), such as: <code><font style="color:DarkGreen; text-decoration: none; font-weight: bold;">"Ceci est une string."</font></code></p>

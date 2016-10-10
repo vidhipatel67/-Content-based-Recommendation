@@ -1,0 +1,1 @@
+<p>to construct a String to pass to the <code>System.out.println()</code>. This expression is a series of <i>String concatenation</i> methods which concatenates Strings or the String representation of primitive types (such as doubles) or objects, and returns a long string. For example, the result of this expression for the points (0,3) and (4,0) is the String</p>

@@ -1,0 +1,1 @@
+<p><br> It is also possible to let an enumeration implement interfaces other than <code lang="Java" xml:lang="Java">java.lang.Comparable</code> and <code>java.io.Serializable</code>, which are already implicitly implemented by each enumeration:</p>

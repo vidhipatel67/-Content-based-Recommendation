@@ -1,0 +1,1 @@
+<p>The string returned by <code>substring()</code> would be "port".</p>

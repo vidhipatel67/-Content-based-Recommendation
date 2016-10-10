@@ -1,0 +1,1 @@
+<p>The nominal wrapper class is the <code>java.lang.Character</code> class when you need to store a <code><a href="/wiki/Java_Programming/Keywords/char" title="Java Programming/Keywords/char"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">char</font></a></code> value but an object reference is required.</p>

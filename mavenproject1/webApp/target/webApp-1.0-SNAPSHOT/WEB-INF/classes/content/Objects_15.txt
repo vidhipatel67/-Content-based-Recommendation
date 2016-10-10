@@ -1,0 +1,1 @@
+<p>A <b>non-default constructor</b> is designed to create an object instance with prescribed values for most, if not all, of the object's fields. The car is red, goes from 0-60 in 12 seconds, tops out at 190mph, etc.</p>

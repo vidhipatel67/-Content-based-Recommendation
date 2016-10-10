@@ -1,0 +1,1 @@
+<p>In Java and J2EE programming, you can call a method on an object only if it is casted to a class or an interface that declares it. The structured definition of bean properties is very useful for comparing a single common property across several objects that are not and should not be related by inheritance.</p>

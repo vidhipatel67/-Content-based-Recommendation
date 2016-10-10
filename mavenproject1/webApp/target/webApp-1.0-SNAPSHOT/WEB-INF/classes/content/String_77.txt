@@ -1,0 +1,1 @@
+<p><b>Question 3.12</b>: You have mail addresses in the following form: <code><i>&lt;firstName&gt;</i>.<i>&lt;lastName&gt;</i>@<i>&lt;companyName&gt;</i>.org</code></p>

@@ -1,0 +1,1 @@
+<p>The <b>Java compiler</b> tool (named <b>javac</b> in the JDK) is the most important utility found with the JDK. In order to compile a Java source file (say, <code>SomeApplication.java</code>) to its respective Java byte-code, you would need to use the following command in Command Prompt (on Windows) or Terminal (on Linux or Mac OS):</p>

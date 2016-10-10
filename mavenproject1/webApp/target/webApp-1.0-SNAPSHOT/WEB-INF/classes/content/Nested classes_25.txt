@@ -1,0 +1,1 @@
+<p>The following example does the same thing, but it names the class that implements the action listener.</p>

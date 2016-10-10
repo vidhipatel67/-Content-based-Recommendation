@@ -1,0 +1,2 @@
+text:In java it's a bit difficult to implement a deep object copy function. What steps you take to ensure the original object and the cloned one share no reference? 
+

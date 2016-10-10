@@ -1,0 +1,1 @@
+<p>In Java, an array is an object. This object has a given type for the contained primitive types or objects (<code>int</code>, <code>char</code>, <code>String</code>, ...). An array can be declared in several ways:</p>

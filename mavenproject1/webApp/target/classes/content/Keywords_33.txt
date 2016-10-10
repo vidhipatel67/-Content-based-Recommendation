@@ -1,0 +1,1 @@
+<p>The <code>java.lang.Byte</code> class is the nominal wrapper class when you need to store a <code><a href="/wiki/Java_Programming/Keywords/byte" title="Java Programming/Keywords/byte"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">byte</font></a></code> value but an object reference is required.</p>

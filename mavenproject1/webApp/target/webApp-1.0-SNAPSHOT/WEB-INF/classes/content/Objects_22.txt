@@ -1,0 +1,1 @@
+<p>When a car is created, it comes with a list of features/operations listed in the user manual that guarantees that those will be there when the car is used.</p>

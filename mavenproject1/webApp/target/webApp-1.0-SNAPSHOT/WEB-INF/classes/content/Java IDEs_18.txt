@@ -1,0 +1,1 @@
+<p>JBuilder is an IDE with proprietary source code, sold by Embarcadero Technologies. One of the advantages is the integration with Together, a modeling tool.</p>

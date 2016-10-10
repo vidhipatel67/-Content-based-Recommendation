@@ -1,0 +1,1 @@
+<p>We can pass any <a href="/wiki/Java_Programming/Primitive_Types" title="Java Programming/Primitive Types">primitive data types</a> or objects to a method but the two are not processed the same way.</p>

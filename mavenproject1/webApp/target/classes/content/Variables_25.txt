@@ -1,0 +1,1 @@
+<p>Alternatively, you can further reduce the syntax by doing group declarations and assignments together, as such:</p>

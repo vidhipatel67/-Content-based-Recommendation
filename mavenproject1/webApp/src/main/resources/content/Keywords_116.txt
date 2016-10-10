@@ -1,0 +1,1 @@
+<p>It is useful for methods that use side effects to update some objects. Such methods modify the content of an object passed in parameter. The method caller will recieve the object update. This will fail if the object parameter has been reassigned in the method. Another object will be updated instead. Final method parameter can also be used to keep the code clean.</p>

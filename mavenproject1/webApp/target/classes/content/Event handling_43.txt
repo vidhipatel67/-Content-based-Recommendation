@@ -1,0 +1,1 @@
+<p>So, is this code any good? No. It's yucky and terrible and most of all not thread safe. But it will do for our example.</p>

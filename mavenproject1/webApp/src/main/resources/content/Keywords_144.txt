@@ -1,0 +1,1 @@
+<p>The <code>java.lang.Float</code> class is the nominal wrapper class when you need to store a <code><a href="/wiki/Java_Programming/Keywords/float" title="Java Programming/Keywords/float"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">float</font></a></code> value but an object reference is required.</p>

@@ -1,0 +1,1 @@
+<p>You must understand the difference between the reference of an object and the object itself. A <i>object reference</i> is the link between a variable name and an instance of object:</p>

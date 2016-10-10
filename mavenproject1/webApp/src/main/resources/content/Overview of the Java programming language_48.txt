@@ -1,0 +1,1 @@
+<p>In conventional languages like C and C++, all code had to be compiled and linked to one executable program, before execution. In Java, classes are compiled as needed. If a class is not needed during an execution phase, that class is not even compiled into byte code.</p>

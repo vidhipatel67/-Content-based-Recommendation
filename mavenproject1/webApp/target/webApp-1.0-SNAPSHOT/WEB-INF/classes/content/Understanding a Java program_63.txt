@@ -1,0 +1,1 @@
+<p>The <code>main()</code> method is the main entry point which Java invokes when you start a Java program from the command line. The command</p>

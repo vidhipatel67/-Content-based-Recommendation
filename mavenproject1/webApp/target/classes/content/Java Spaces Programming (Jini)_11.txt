@@ -1,0 +1,1 @@
+<p>When a service registers with the lookup service, it receives a lease from the lookup service, described in the <i>Jini Distributed Leasing Specification</i>.</p>

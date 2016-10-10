@@ -1,0 +1,1 @@
+<p>Each node is related to an item of the linked list. To remove an element from the linked list the pointers need to be rearranged. After removing Node 2:</p>

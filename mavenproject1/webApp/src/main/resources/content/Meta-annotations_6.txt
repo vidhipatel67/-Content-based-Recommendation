@@ -1,0 +1,1 @@
+<p>In the documentation for the <code>Example</code> class, such as the JavaDoc, <code>Example</code> will be shown as annotated with <code>@NotSecret</code>, but not <code>@Secret</code>.</p>

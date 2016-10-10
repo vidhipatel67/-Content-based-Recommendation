@@ -1,0 +1,1 @@
+<p>In this section, we would explore in further detail what these two software components of the Java platform do.</p>

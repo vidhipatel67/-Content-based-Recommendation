@@ -1,0 +1,1 @@
+<p>Starting in J2SE 7.0, the <code>switch</code> statement can also be used with an <code><a href="/wiki/Java_Programming/API/java.lang.String" title="Java Programming/API/java.lang.String">String</a></code> value instead of an integer.</p>

@@ -1,0 +1,3 @@
+<p>If you get something like this:</p>
+<p>... then a JRE is installed. If you get an error, such as:</p>
+<p>... then the JDK may not be installed or it may not be in your path.</p>

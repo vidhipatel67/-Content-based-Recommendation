@@ -1,0 +1,1 @@
+<p>Most computers come with a pre-installed copy of the JRE. If your computer doesn't have a JRE, then the above commands would not work. You can always check what version of the JRE is installed on the computer by writing the following command in Command Prompt (on Windows) or Terminal (on Linux or Mac OS):</p>

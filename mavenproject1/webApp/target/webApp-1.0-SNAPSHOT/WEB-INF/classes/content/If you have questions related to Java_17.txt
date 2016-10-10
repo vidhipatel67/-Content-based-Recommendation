@@ -1,0 +1,1 @@
+<p>Yes. Singleton constructors are private. When the constructor is private no object of that class can be created outside of that class. How and when an object can be created of that class is defined by that class.</p>

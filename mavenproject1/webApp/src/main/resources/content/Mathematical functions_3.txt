@@ -1,0 +1,1 @@
+<p>The <code>java.lang.Math</code> class allows the use of many common mathematical functions that can be used while creating programs.</p>

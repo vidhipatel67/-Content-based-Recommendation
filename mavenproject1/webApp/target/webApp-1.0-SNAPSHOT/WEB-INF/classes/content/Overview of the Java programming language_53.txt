@@ -1,0 +1,1 @@
+<p>In Java, freeing up memory is taken out of the programmers hands; the Java Virtual Machine keeps track of all used memory. When memory is not used any more it is automatically freed up. A separate task is running in the background by the JVM, freeing up unreferenced, unused memory. That task is called the <i>Garbage Collector</i>.</p>

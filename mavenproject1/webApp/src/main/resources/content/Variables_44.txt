@@ -1,0 +1,1 @@
+<p>Now, that's pathetic. Thankfully, there's a data type that handles large number of characters, it's called a <code>String</code>. A string can be initialized as follows:</p>

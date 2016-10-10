@@ -1,0 +1,1 @@
+<p>Here is an example of RMI client:</p>

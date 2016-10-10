@@ -1,0 +1,1 @@
+<p>Please note that the endIndex is <b>not</b> inclusive. This means that the last character will be of the index <code>endIndex-1</code>. Therefore, in this example, every character from index 3 to index 6, inclusive, was copied into the substring.</p>

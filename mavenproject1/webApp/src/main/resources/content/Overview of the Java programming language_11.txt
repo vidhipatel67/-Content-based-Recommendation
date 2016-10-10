@@ -1,0 +1,1 @@
+<p>In this situation, the machine code file and its execution are specific to the platform (Windows, Linux, Mac OS, ...) it was compiled for, that is to say to the <i>targeted platform</i>:</p>

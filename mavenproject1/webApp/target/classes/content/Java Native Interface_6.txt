@@ -1,0 +1,1 @@
+<p>This page will only explain how to call native code from JVM, not how to call JVM from native code.</p>

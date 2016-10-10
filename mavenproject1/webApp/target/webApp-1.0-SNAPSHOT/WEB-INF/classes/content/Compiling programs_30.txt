@@ -1,0 +1,1 @@
+<p>has to be in a directory named <code>en</code> which has to be a sub-directory of <code>wikibooks</code> which in turn has to be a sub-directory of <code>org</code> resulting in <code>org/wikibooks/en</code> on Linux or <code>org\wikibooks\en</code> on Windows.</p>

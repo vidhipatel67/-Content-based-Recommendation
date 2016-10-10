@@ -1,0 +1,1 @@
+<p>In conventional languages like C and C++, the programmer has to make sure that all memory that was allocated is freed. Memory leaks became a regular nuisance in instances where the programmers had to manually allocate the system's memory resources.</p>

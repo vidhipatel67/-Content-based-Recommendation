@@ -1,0 +1,1 @@
+<p>If you already have the JRE installed, you can use the Java Wiki Integrated Development Environment (JavaWIDE) to code directly in your browser, no account or special software required.</p>

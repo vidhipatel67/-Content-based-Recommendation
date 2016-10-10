@@ -1,0 +1,1 @@
+<p><tt>expression1</tt> is a boolean that will throw the assertion if it is false. When it is thrown, the assertion error exception is created with the parameter <tt>expression2</tt> (if applicable).</p>

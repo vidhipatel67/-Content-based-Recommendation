@@ -1,0 +1,1 @@
+<p>If no <code>HelloWorld.class</code> file has been created in the same folder, then you've got an error. Are you launching the <code>javac</code> program correctly?</p>

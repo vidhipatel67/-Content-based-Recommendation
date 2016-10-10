@@ -1,0 +1,1 @@
+<p>The <a href="#code-section-62">code section 3.62</a> contains two number literals followed by two boolean literals at line 1, one string literal followed by one number literal at line 2, and one string literal followed by one real number literal at line 3:</p>

@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/throws" title="Java Programming/Keywords/throws"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">throws</font></a></code> is a Java keyword. It is used in a method definition to declare the Exceptions to be thrown by the method.</p>

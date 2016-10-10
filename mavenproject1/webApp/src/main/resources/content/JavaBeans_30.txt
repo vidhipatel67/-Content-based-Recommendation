@@ -1,0 +1,1 @@
+<p>However, JavaBeans do not realize all features of a component model. A drawback is that JavaBeans are restricted to the Java programming language, while an important goal of components is the independence of an implementation language.</p>

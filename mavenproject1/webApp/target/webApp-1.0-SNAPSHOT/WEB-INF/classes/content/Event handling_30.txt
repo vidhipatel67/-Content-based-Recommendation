@@ -1,0 +1,1 @@
+<p>If we analyze these requirements, we come to the conclusion that we have a number of different responsibilities in the program:</p>

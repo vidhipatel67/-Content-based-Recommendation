@@ -1,0 +1,1 @@
+<p>The Java applet is less and less used. You'd rather use <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> when it is possible.</p>

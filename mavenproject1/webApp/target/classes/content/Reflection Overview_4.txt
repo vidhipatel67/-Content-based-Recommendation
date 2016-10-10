@@ -1,0 +1,1 @@
+<p>One way to understand how reflection works is to use reflection to model how the Java Runtime Environment (JRE) loads and executes a class. When you invoke a Java program</p>

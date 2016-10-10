@@ -1,0 +1,1 @@
+<p>Note that inner objects, because they are tied to the outer object, cannot contain static variables or methods.</p>

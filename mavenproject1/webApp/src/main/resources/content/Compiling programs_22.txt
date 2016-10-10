@@ -1,0 +1,1 @@
+<p>Each Java top level class belongs to a package (covered in the chapter about <a href="/wiki/Java_Programming/Packages" title="Java Programming/Packages">Packages</a>). This may be declared in a <code>package</code> statement at the beginning of the file; if that is missing, the class belongs to the unnamed package.</p>

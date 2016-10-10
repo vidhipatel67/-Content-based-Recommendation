@@ -1,0 +1,1 @@
+<p>Most declarations have a data type. Java has several categories of data types: reference types, primitive types, array types, and a special type, void.</p>

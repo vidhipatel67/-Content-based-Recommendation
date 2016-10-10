@@ -1,0 +1,1 @@
+<p>C++ was built atop the C language and as a result divergent ways of doing the same thing manifested around the language. For instance, creating an object could be done in three different ways in C++. Furthermore, C++ did not come with a standard library bundled with its compilers. Instead, it relied on resources created by other programmers; code which rarely fit together.</p>

@@ -1,0 +1,1 @@
+<p>A return statement can return the content of a variable or nothing. Beware not to write statements after a return statement which would not be executed! Each <code>return</code> statement is ended by a semi-colon (<code>;</code>).</p>

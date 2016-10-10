@@ -1,0 +1,1 @@
+<p>Data conversion (casting) can happen between two primitive types. There are two kinds of casting:</p>

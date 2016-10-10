@@ -1,0 +1,1 @@
+<p>Prior to Java 1.2 the skeleton had to be explicitly generated with the <i>rmic</i> tool. Since 1.2 a dynamic skeleton is used, which employs the features of Java Reflection to do its work.</p>

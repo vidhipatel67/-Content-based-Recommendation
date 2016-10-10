@@ -1,0 +1,1 @@
+<p>And of course, if we run the same example as given above, the numbers are now recorded in a log file.</p>

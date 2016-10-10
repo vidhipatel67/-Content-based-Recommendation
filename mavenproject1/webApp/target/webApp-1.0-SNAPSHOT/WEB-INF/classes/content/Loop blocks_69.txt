@@ -1,0 +1,1 @@
+<p>The prime numbers are counted using <code>currentItems</code>. When <code>currentItems</code> is equal to <code>numberOfItems</code> (5), the program go out of the <code>while</code> loop. <code>currentCandidate</code> contains the last number, that is to say the 5<sup>th</sup> prime number:</p>

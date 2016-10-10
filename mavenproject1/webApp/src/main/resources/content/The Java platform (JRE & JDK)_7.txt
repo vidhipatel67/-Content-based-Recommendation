@@ -1,0 +1,1 @@
+<p>A major milestone in the development of the Java programming language was to develop a special runtime environment that would execute any Java application <i>independent</i> of the computer's operating system, platform or architecture.</p>

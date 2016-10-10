@@ -1,0 +1,1 @@
+<p>Why not <code>float</code>, you say? If we'd used a <code>float</code>, we would have to append the number with a <code>f</code> as a suffix, so <code>10.5</code> should be <code>10.5f</code> as in:</p>

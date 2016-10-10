@@ -1,0 +1,1 @@
+<p>Since Java 1.5, one may write as below and the compiler will automatically create the wrap object. The extra step of wrapping the primitive is no longer required. It has been <i>automatically boxed up</i> on your behalf:</p>

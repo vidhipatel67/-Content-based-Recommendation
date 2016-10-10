@@ -1,0 +1,1 @@
+<p>Floating-point math never throws exceptions. Dividing a non-zero value by <code>0</code> equals <code>infinity</code>. Dividing a non-infinite value by <code>infinity</code> equals <code>0</code>.</p>

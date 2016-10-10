@@ -1,0 +1,1 @@
+<p><br> An enumeration may also have parameters:</p>

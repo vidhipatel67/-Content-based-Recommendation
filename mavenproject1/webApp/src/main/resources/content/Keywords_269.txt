@@ -1,0 +1,1 @@
+<p>In Java 1.5 and later, the "super" keyword is also used to specify a lower bound on a wildcard type parameter in Generics.</p>

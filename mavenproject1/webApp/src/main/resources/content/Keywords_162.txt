@@ -1,0 +1,1 @@
+<p>Used in <code><a href="/wiki/Java_Programming/Keywords/class" title="Java Programming/Keywords/class"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">class</font></a></code> definition to declare the Interfaces that are to be implemented by the class.</p>

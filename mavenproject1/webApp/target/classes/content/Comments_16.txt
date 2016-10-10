@@ -1,0 +1,1 @@
+<p>However, comments are not parsed as comments when they occur in string literals.</p>

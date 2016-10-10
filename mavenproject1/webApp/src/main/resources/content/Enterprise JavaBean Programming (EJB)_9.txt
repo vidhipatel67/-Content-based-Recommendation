@@ -1,0 +1,1 @@
+<p><a href="/wiki/Java_Programming/JavaSpaces" title="Java Programming/JavaSpaces">JINI</a> was an attempt from Sun to address this flexibility problem. In JINI, the client download the component interface implementation and execute it in the client space.</p>

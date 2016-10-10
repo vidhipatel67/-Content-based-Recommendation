@@ -1,0 +1,1 @@
+<p>Standard Java arrays are of a fixed length. After arrays are created, they cannot grow or shrink, which means that you must know in advance how many elements an array will hold.</p>

@@ -1,0 +1,1 @@
+<p>The returned string is assigned to the variable. It does the job as the <code>trim()</code> method has created a new <code>String</code> instance.</p>

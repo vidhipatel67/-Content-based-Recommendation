@@ -1,0 +1,1 @@
+<p>The reason we need it is because many times, we need to create an object reference before the object itself is created. Object references cannot exist without a value, so we assign the <a href="/wiki/Java_Programming/Literals#null" title="Java Programming/Literals"><code>null</code></a> value to it.</p>

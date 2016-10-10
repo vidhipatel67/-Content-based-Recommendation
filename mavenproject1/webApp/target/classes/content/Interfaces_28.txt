@@ -1,0 +1,1 @@
+<p>List all the methods that an implementing class of <code>Movable</code> should implement.</p>

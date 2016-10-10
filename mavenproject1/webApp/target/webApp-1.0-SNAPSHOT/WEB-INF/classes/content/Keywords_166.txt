@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/import" title="Java Programming/Keywords/import"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">import</font></a></code> is a Java keyword.</p>

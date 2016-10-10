@@ -1,0 +1,1 @@
+<p>To create a custom color, the RGB values of the color can be passed in as the color parameter. For example, if red were not a predefined color, one could use <code>setForeground(new Color(255, 0, 0))</code> to define red.</p>

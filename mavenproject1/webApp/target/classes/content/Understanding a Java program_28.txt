@@ -1,0 +1,1 @@
+<p><code>&nbsp;&nbsp;private static int intValue(String data) {</code><br> <code>&nbsp;&nbsp;&nbsp;&nbsp;return Integer.parseInt(data);</code><br> <code>&nbsp;&nbsp;}</code></p>

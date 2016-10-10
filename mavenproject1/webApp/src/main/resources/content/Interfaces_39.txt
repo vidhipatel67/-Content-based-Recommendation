@@ -1,0 +1,1 @@
+<p>Now your code has to cast the objects to the <code>Logger</code> type and then you can uncomment the code.</p>

@@ -1,0 +1,1 @@
+<p>Lambda (Java's implementation of lambda functions), Jigsaw (Java's implementation of modules), and part of Coin were dropped from Java 7. Java 8 will be released with the remaining features in summer 2013.<sup id="cite_ref-JavaOne2011Keynote_18-0" class="reference"><a href="#cite_note-JavaOne2011Keynote-18">[18]</a></sup></p>

@@ -1,0 +1,1 @@
+<p>Three things can happen in a try block:</p>

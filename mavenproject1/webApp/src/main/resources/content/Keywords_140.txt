@@ -1,0 +1,1 @@
+<p>If <code><a href="/wiki/Java_Programming/Keywords/return" title="Java Programming/Keywords/return"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">return</font></a></code> statement is used inside finally, it overrides the return statement in the try-catch block. For instance, the construct</p>

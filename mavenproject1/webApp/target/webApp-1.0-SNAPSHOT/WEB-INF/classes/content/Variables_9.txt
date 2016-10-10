@@ -1,0 +1,1 @@
+<p>In the <a href="#code-listing-9">code listing 3.9</a>, are examples of all four kinds of variables.</p>

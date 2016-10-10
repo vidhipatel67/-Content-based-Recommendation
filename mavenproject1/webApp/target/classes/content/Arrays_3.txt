@@ -1,0 +1,1 @@
+<p>An <b>array</b> is similar to a table of objects or primitive types, keyed by index. You may have noticed the strange parameter of the default <code>main()</code> method (<code>String[] args</code>) since the beginning of the book. It is an array. Let's handle this parameter:</p>

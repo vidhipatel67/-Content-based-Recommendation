@@ -1,0 +1,1 @@
+<p>The manipulation of the operand stack is notated as [before]?[after], where [before] is the stack before the instruction is executed and [after] is the stack after the instruction is executed. A stack with the element 'b' on the top and element 'a' just after the top element is denoted 'a,b'.</p>

@@ -1,0 +1,1 @@
+<p>Just as font styles, font colors can be applied to separate elements. The syntax follows the same pattern: <code>a.setForeground(Color.white)</code>.</p>

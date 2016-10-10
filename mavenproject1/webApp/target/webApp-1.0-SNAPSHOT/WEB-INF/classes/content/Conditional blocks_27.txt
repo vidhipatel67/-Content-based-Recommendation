@@ -1,0 +1,1 @@
+<p>All the conditions are evaluated when <code>if</code> is reached, no matter what the result of the condition is, after the execution of the <code>if</code> block:</p>

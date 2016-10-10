@@ -1,0 +1,1 @@
+<p>An interface can extend several interfaces, similar to the way that a class can extend another class, using the <code><a href="/wiki/Java_Programming/Keywords/extends" title="Java Programming/Keywords/extends"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">extends</font></a></code> keyword:</p>

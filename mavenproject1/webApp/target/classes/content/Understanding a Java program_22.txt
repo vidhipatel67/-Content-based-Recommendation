@@ -1,0 +1,1 @@
+<p><code>&nbsp;&nbsp;public Distance(int x0, int y0, int x1, int y1) {</code><br> <code>&nbsp;&nbsp;&nbsp;&nbsp;point0 = new java.awt.Point(x0, y0);</code><br> <code>&nbsp;&nbsp;&nbsp;&nbsp;point1 = new java.awt.Point(x1, y1);</code><br> <code>&nbsp;&nbsp;}</code></p>

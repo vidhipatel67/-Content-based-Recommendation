@@ -1,0 +1,1 @@
+<p>The garbage-collector thread runs in a lower priority than the other threads. If the application creates objects faster than the garbage-collector can claim back memory, the program can run out of memory.</p>

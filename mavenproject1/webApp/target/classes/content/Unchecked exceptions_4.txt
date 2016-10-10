@@ -1,0 +1,1 @@
+<p>The unchecked exceptions can only be the <code>RuntimeException</code> and its subclasses, and the class <code>Error</code> and its subclasses. All other exception classes must be handled, otherwise the compiler gives an error.</p>

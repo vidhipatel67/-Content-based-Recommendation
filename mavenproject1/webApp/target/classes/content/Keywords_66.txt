@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/continue" title="Java Programming/Keywords/continue"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">continue</font></a></code> is a Java keyword. It skips the remainder of the loop and continues with the next iteration.</p>

@@ -1,0 +1,1 @@
+<p><b>To do:</b><br> Add some exercises like the ones in <a href="/wiki/Java_Programming/Variables#What_are_variables.3F" title="Java Programming/Variables">Variables</a>.</p>

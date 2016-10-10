@@ -1,0 +1,1 @@
+<p>Otherwise, ojdbc7.jar can be downloaded from <a rel="nofollow" class="external free" href="http://www.oracle.com/technetwork/database/features/jdbc/jdbc-drivers-12c-download-1958347.html">http://www.oracle.com/technetwork/database/features/jdbc/jdbc-drivers-12c-download-1958347.html</a>, and add it to the compilation. Eg:</p>

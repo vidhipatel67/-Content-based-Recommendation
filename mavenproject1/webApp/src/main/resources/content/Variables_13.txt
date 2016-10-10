@@ -1,0 +1,1 @@
+<p>Variables and all the information they store are kept in the computer's memory for access. Think of a computer's memory as a table of data — where each cell corresponds to a variable.</p>

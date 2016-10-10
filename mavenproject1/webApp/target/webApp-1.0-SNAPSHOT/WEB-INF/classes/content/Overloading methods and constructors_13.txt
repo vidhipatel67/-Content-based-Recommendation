@@ -1,0 +1,1 @@
+<p>because the type order is different. If both input parameters were type String, that would be a problem since the compiler would not be able to distinguish between the two:</p>

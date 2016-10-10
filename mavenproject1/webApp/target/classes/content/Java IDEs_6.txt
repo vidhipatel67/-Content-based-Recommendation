@@ -1,0 +1,1 @@
+<p>IBM's WSAD, and later IBM Rational Software Development Platform, are built on Eclipse.</p>

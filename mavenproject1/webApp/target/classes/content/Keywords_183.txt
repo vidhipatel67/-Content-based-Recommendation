@@ -1,0 +1,1 @@
+<p>Note that the <code><a href="/wiki/Java_Programming/Keywords/instanceof" title="Java Programming/Keywords/instanceof"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">instanceof</font></a></code> operator can also be applied to interfaces. For example, if the example above was enhanced with the interface</p>

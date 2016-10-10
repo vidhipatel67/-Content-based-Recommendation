@@ -1,0 +1,1 @@
+<p>If you are using the class from a class in the same package, you don't have to specify the package. If another class with the same name exists in another package, it will use the local class.</p>

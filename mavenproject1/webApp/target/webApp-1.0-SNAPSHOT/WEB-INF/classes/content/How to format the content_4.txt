@@ -1,0 +1,1 @@
+<p>Most of the time a page from the Java Programming Wikibook has a structure that looks like this:</p>

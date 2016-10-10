@@ -1,0 +1,1 @@
+<p>Only an abstract class can have abstract methods. An abstract method is only declared, not implemented:</p>

@@ -1,0 +1,1 @@
+<p>In our case we need an adaptor that writes the numbers to a log file. Keeping it simple once again, let's settle for an adaptor that:</p>

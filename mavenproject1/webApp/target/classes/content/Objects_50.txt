@@ -1,0 +1,1 @@
+<p>The <code>java.lang.Object.finalize()</code> method is called exactly once before the garbage collector frees the memory for object. A class overrides <code>finalize</code> to perform any clean up that must be performed before an object is reclaimed. Most objects do not need to override <code>finalize</code>.</p>

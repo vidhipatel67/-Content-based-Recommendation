@@ -1,0 +1,1 @@
+<p>If no <code>@Retention</code> policy is specified, it defaults to <code>RetentionPolicy.CLASS</code>.</p>

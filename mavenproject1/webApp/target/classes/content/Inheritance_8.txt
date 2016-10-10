@@ -1,0 +1,1 @@
+<p>Some classes can't be inherited. Those classes are defined with the <code><a href="/wiki/Java_Programming/Keywords/final" title="Java Programming/Keywords/final"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">final</font></a></code> keyword. For instance, the <code>Integer</code> class can't have subclasses. It is called a <i>final</i> class.</p>

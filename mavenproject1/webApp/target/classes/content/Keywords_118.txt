@@ -1,0 +1,1 @@
+<p>The <code>final</code> keyword forbids the creation of a subclass. It is the case of the <code>Integer</code> or <code>String</code> class.</p>

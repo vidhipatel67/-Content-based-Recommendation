@@ -1,0 +1,1 @@
+<p>The constructor can be overloaded. You can define more than one constructor with different parameters. For example:</p>

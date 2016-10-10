@@ -1,0 +1,1 @@
+<p>Notice that the loop automatically exits after the last item in the collection has been examined in the statement block.</p>

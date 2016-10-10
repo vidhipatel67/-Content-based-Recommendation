@@ -1,0 +1,1 @@
+<p>This class defines two void methods:</p>

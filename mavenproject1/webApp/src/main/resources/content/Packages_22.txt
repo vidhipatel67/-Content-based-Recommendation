@@ -1,0 +1,1 @@
+<p>If you are importing library packages or classes that reside in a <code>.jar</code> file, you must ensure that the file is in the current classpath (both at compile- and execution-time). Apart from this requirement, importing these packages and classes is the same as if they were in their full, expanded, directory structure.</p>

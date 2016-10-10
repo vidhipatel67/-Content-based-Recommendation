@@ -1,0 +1,1 @@
+<p>The Java language provides special support for the string concatenation with operator <code>+</code>:</p>

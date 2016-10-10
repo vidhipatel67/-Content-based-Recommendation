@@ -1,0 +1,1 @@
+<p>In Java, we can distinguish two kinds of equality.</p>

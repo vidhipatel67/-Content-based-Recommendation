@@ -1,0 +1,1 @@
+<p>The intermediate language is the <i>byte code</i>. The interpretor is the <i>Java Virtual Machine</i> (JVM). The byte code file is universal and the JVM is platform specific:</p>

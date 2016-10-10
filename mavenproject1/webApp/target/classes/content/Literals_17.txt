@@ -1,0 +1,1 @@
+<p>Starting in J2SE 7.0, you may insert underscores between digits in a numeric literal. They are ignored but may help readability by allowing the programmer to group digits.</p>

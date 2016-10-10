@@ -1,0 +1,1 @@
+<p>We can declare that the method does not return anything using the <code><a href="/wiki/Java_Programming/Keywords/void" title="Java Programming/Keywords/void"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">void</font></a></code> Java keyword. For example:</p>

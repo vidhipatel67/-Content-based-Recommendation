@@ -1,0 +1,1 @@
+<p>The <code>while</code> loop iterates a block of code while the condition it specifies is <code>true</code>.</p>

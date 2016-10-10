@@ -1,0 +1,1 @@
+<p>A stack frame represents the following information:</p>

@@ -1,0 +1,1 @@
+<p>At the instantiating, the child class receives the features inherited from its superclass, which also has received the features inherited from its own superclass and so on to the <code>Object</code> class. This mechanism allows to define reusable global classes, whose user details the behavior in the derived more specific classes.</p>

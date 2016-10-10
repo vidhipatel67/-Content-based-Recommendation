@@ -1,0 +1,1 @@
+<p>Here a new identifier (<i>D</i>) has been chosen at the beginning of the method declaration. The type is <i>specific to a method call</i> and different types can be used for the same object instance:</p>

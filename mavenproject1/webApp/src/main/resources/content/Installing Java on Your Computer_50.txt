@@ -1,0 +1,1 @@
+<p>Alternatively, you can manually <a rel="nofollow" class="external text" href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">download the Java software</a> from the Oracle website.</p>

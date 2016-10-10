@@ -1,0 +1,1 @@
+<p>If a member is annotated with a type itself marked as <code>@Documented</code>, then that member will be documented as annotating that type.</p>

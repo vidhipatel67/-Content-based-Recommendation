@@ -1,0 +1,1 @@
+<p>A new Java JDK package was introduced at Java 1.5, that is <code>java.util.concurrent</code>. This package supplies a few Collection implementations designed for use in multi-threaded environments.</p>

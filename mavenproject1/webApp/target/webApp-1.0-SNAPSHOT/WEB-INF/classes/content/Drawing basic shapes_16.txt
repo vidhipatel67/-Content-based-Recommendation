@@ -1,0 +1,4 @@
+<p>The four arguments that are being passed into the method are, in order of appearance, the <b>x-coordinate</b>, the <b>y-coordinate</b>, <b>width</b> and the <b>height</b>. Hence, the resultant rectangle would start painting at the point on the screen 10 pixels from the left and 10 from the top and would be a 100 pixel wide and a 100 pixel in height. To save the argument here, the above drawing is that of a square with equal sides but squares are drawn using the same method and there is no such method as 
+ <strike>
+  <code style="border-bottom:dashed green 1px;">drawSquare(int, int, int)</code>
+ </strike><br style="clear:both;"></p>

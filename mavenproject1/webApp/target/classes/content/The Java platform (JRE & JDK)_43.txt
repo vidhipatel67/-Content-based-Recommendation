@@ -1,0 +1,1 @@
+<p><code>native2ascii</code> is an important, though underappreciated, tool for writing properties files — files containing configuration data — or resource bundles — files containing language translations of text.</p>

@@ -1,0 +1,1 @@
+<p>Sometimes it is useful to split a string into separate strings, based on a <i><a href="/wiki/Regular_Expressions" title="Regular Expressions">regular expressions</a></i>. The <code><strong class="selflink">String</strong></code> class has a <b><code>split()</code></b> method, since Java 1.4, that will return a String array:</p>

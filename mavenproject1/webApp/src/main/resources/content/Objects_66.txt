@@ -1,0 +1,1 @@
+<p>The notify methods must be called inside of a block or method synchronized on the object. This insures that there are no race conditions between <code>wait</code> and <code>notify</code>.</p>

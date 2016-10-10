@@ -1,0 +1,1 @@
+<p>As the focus was shifting from reaching GUI clients to thin client applications, with Java version 2, Sun introduced J2EE (Java 2 Extended Edition). J2EE added&nbsp;:</p>

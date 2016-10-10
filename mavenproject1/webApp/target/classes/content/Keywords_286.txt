@@ -1,0 +1,1 @@
+<p>A <code><a href="/wiki/Java_Programming/Keywords/synchronized" title="Java Programming/Keywords/synchronized"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">synchronized</font></a></code> block is marked as:</p>

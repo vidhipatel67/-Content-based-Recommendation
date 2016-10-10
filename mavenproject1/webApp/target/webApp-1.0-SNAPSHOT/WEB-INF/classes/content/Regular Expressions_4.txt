@@ -1,0 +1,1 @@
+<p>The <i>Pattern</i> class offers the function <i>matches</i> which returns <i>true</i> if an expression is found into a string.</p>

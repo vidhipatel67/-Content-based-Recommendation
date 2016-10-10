@@ -1,0 +1,1 @@
+<p>Oracle's <a rel="nofollow" class="external text" href="http://www.oracle.com/technetwork/java/index.html#449">Java Code Conventions</a> recommend that the braces should always be used.</p>

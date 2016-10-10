@@ -1,0 +1,1 @@
+<p>In the example above, we created five variables: <code>a</code>, <code>b</code>, <code>c</code>, <code>d</code> and <code>e</code>. All these variables have the same data type <code>int</code> (integer). However, can you tell what kind of variable each one is?</p>

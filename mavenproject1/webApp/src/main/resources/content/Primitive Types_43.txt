@@ -1,0 +1,1 @@
+<p>These are five variables. There are a <code>long</code>, a <code>byte</code>, a <code>char</code>, a <code>double</code> and a <code>boolean</code>. Retrieve the type of each one.</p>

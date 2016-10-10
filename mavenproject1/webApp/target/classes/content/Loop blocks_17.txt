@@ -1,0 +1,1 @@
+<p>The loop's condition is checked before each iteration of the loop. If the condition is false at the start of the loop, the loop will not be executed at all. The <a href="#code-section-28">code section 3.28</a> sets in <code>squareHigherThan200</code> the smallest integer whose square exceeds 200.</p>

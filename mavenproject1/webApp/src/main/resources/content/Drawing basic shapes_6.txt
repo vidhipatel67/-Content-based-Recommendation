@@ -1,0 +1,1 @@
+<p>Now, the main class that you would be needing would, without doubt, be the <code style="border-bottom:dashed red 1px;">Graphics</code> class. If you take a closer look at the method that we used in theIdentifying the acquisition of the <code>Graphics</code> class in our code</p>

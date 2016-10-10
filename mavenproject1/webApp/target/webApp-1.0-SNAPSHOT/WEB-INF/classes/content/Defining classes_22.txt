@@ -1,0 +1,1 @@
+<p>This is something to keep in mind when extending existing classes. Either make a default constructor, or make sure every class that inherits your class uses the correct constructor.</p>

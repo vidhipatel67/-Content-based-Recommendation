@@ -1,0 +1,1 @@
+<p>With J2EE the following Java component executions are possible:</p>

@@ -1,0 +1,1 @@
+<p>Wherever whitespace is required in Java, one or more whitespace characters may be used. Wherever whitespace is optional in Java, zero or more whitespace characters may be used.</p>

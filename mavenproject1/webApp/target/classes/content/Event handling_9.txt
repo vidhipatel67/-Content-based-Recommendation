@@ -1,0 +1,1 @@
+<p>In this module we examine the basis of the Java Platform's facilities for event-driven programming and we look at some typical examples of how that basis has been used throughout the platform.</p>

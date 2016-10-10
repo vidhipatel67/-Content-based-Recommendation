@@ -1,0 +1,1 @@
+<p>JavaSpaces technology is part of the Java <a href="//en.wikipedia.org/wiki/Jini" class="extiw" title="w:Jini">Jini</a> technology. The basic features of JINI are:</p>

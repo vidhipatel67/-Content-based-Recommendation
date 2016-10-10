@@ -1,0 +1,1 @@
+<p>This method hooks an input stream to the program's output stream, so that it can read the program's output, and save it into a list of strings.</p>

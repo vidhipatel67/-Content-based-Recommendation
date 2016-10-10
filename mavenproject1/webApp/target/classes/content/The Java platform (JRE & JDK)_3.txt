@@ -1,0 +1,1 @@
+<p>The <b>Java platform</b> is the name given to the computing platform from Oracle that helps users to <i>run</i> and <i>develop</i> Java applications. The platform does not just enable a user to run and develop a Java application, but also features a wide variety of tools that can help developers work efficiently with the Java programming language.</p>

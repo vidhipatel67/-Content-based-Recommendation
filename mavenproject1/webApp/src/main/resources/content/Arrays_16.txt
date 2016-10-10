@@ -1,0 +1,1 @@
+<p>Arrays are allocated at runtime, so the specified size in an array creation expression may be a variable (rather than a constant expression as in C). However, the size of an instantiated array never changes. If you need to change the size, you have to create a new instance. Items can be accessed by their index. Beware! The first index is 0:</p>

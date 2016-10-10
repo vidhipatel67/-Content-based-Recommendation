@@ -1,0 +1,1 @@
+<p>The same code without generics:</p>

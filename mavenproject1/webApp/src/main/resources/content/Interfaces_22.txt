@@ -1,0 +1,1 @@
+<p>Doing so, a <code>ClassAB</code> object can be casted into <code>InterfaceA</code>, <code>InterfaceB</code> and <code>InterfaceAB</code>.</p>

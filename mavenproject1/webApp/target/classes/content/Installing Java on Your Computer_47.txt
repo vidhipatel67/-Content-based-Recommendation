@@ -1,0 +1,1 @@
+<p>Downloading and installing the Java platform on Linux machines (in particular Ubuntu Linux) is very easy and straight-forward. To use the terminal to download and install the Java platform, follow the instructions below.</p>

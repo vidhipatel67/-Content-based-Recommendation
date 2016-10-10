@@ -1,0 +1,1 @@
+<p>This error could have been fixed earlier, at compile time, using generic types.</p>

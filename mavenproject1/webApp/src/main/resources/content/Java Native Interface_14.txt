@@ -1,0 +1,1 @@
+<p>Native data types can be mapped to/from Java data types. For compound types such as objects, arrays and strings the native code must explicitly convert the data by calling methods in the <code>JNIEnv</code>. The following table shows the mapping of types between Java (JNI) and native code.</p>

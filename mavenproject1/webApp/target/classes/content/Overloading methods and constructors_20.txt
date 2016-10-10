@@ -1,0 +1,1 @@
+<p><b>Question 4.6</b>: Which methods of the <code>Question6</code> class will cause compile errors?</p>

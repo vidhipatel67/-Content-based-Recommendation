@@ -1,0 +1,1 @@
+<p>To warn the user of things like common pitfalls, the <code>XWarning</code> template should be used as demonstrated:</p>

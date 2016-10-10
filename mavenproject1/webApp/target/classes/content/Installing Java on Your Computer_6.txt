@@ -1,0 +1,2 @@
+<p>If you get an error, such as:</p>
+<p>..then the JDK may not be installed or it may not be in your path.</p>

@@ -1,0 +1,1 @@
+<p><code>super</code> references to the parent class (i.e. <code>super.someMethod()</code>). It can be used in a subclass to access inherited methods that the subclass has overridden or inherited fields that the subclass has hidden.</p>

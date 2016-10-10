@@ -1,0 +1,1 @@
+<p>Executing code from a <code>Class</code> instance is explained in the <a href="/wiki/Java_Programming/Reflection/Dynamic_Invocation" title="Java Programming/Reflection/Dynamic Invocation">Dynamic Invocation</a> chapter.</p>

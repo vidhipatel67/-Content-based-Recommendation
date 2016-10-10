@@ -1,0 +1,1 @@
+<p>Anonymous classes are most useful to create an instance of an interface or adapter class without needing a brand new class.</p>

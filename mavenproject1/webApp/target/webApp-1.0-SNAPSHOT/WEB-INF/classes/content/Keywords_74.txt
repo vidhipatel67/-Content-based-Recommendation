@@ -1,0 +1,1 @@
+<p>It starts a do-while looping block. The do-while loop is functionally similar to the while loop, except the condition is evaluated <i>after</i> the statements execute</p>

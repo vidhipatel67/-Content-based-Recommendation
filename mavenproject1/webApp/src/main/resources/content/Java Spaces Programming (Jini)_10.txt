@@ -1,0 +1,1 @@
+<p><i>Jini Discovery and Join Specification</i> describes how does the client find the jini lookup service. There is a protocol to do that, jini comes with a set of API's that implement that protocol. The <i>Jini Discovery Utility Specification</i> defines a set of utility classes that are used to work with the protocol.</p>

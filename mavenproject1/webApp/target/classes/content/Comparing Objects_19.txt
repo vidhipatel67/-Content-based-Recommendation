@@ -1,0 +1,1 @@
+<p>Sometimes we may want to change the ordering of a collection of objects from the same class. We may want to order descending or ascending order. We may want to sort by <code>name</code> or by <code>address</code>.</p>

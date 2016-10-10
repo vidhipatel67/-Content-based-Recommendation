@@ -1,0 +1,1 @@
+<p>In a documentation comment, the first part is a description text in the HTML format. The second part is a list of special attributes whose name starts with an at sign (@):</p>

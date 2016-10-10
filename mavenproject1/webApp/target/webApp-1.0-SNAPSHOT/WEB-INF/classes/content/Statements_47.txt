@@ -1,0 +1,1 @@
+<p>If there is only one statement to be executed after the condition, as in the above example, it is possible to omit the curly braces, however Oracle's <a rel="nofollow" class="external text" href="http://www.oracle.com/technetwork/java/index.html#449">Java Code Conventions</a> explicitly state that the braces should always be used.</p>

@@ -1,0 +1,1 @@
+<p>Indexes start at 0. So the index 1 point at the second string (<code>can't</code>). There are 4 items so the size of the array is 4. Hence the item pointed by the index 3 is the last one (<code>choosers</code>).</p>

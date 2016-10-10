@@ -1,0 +1,1 @@
+<p>Create this display on an applet.</p>

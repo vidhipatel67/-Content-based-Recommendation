@@ -1,0 +1,1 @@
+<p>If you attempt to access to a too high index or negative index, you will get an <code>ArrayIndexOutOfBoundsException</code>.</p>

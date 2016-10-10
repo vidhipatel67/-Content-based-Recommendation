@@ -1,0 +1,1 @@
+<p>The book follows the <a rel="nofollow" class="external text" href="http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html">official Java code conventions</a>. Here is an example:</p>

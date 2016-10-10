@@ -1,0 +1,1 @@
+<p>The above method can be called with a dynamic number of arguments, for example:</p>

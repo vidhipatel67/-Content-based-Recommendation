@@ -1,0 +1,1 @@
+<p>There is no looping involved in an if statement so once the condition has been evaluated the program will continue with the next instruction after the statement.</p>

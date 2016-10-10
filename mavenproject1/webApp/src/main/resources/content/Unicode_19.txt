@@ -1,0 +1,1 @@
+<p>The following is thus perfectly valid Java code; it contains Chinese characters in the class and <a href="/wiki/Java_Programming/Variables" title="Java Programming/Variables">variable</a> names as well as in a string <a href="/wiki/Java_Programming/Literals" title="Java Programming/Literals">literal</a>:</p>

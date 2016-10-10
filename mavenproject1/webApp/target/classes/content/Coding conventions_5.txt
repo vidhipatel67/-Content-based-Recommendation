@@ -1,0 +1,1 @@
+<p>One example from the coding conventions is how to define a constant. Constants should be written with capital letters in Java, where the words are separated by an underscore ('_') character. In the Java coding conventions, a constant is a <code>static final</code> field in a class.</p>

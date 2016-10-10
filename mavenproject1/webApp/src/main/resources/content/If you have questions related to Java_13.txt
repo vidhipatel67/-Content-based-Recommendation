@@ -1,0 +1,1 @@
+<p>The Java String class provides substring() methods that should provide what you need. For example, mid(str, a, b) in Visual Basic would be something like str.substring(a, a+b).</p>

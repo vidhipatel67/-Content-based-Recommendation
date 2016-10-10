@@ -1,0 +1,1 @@
+<p>A <i>static method</i> is a method that can be called without an object instance. It can be called on the class directly. For example, the <code>valueOf(String)</code> method of the <code>Integer</code> class is a static method:</p>

@@ -1,0 +1,1 @@
+<p>The <code>remove()</code> call has done nothing because <code>"2"</code> is a <code>String</code>, not an <code>Integer</code> so no key and value has been found and removed.</p>

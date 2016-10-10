@@ -1,0 +1,1 @@
+<p>The JNI framework does not provide any automatic garbage collection for non-JVM memory resources allocated by code executing on the native side. Consequently, native side code (such as C, C++, or assembly language) must assume the responsibility for explicitly releasing any such memory resources that it itself acquires.</p>

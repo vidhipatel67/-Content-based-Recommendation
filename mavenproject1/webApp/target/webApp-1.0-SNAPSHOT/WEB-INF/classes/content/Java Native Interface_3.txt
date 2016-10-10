@@ -1,0 +1,1 @@
+<p><br> The Java Native Interface (JNI) enables Java code running in a Java Virtual Machine (JVM) to call and to be called by native applications (programs specific to a hardware and operating system platform) and libraries written in other languages, such as C, C++ and assembly.</p>

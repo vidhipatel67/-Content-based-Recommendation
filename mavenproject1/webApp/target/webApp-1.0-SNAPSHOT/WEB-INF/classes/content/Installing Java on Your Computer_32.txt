@@ -1,0 +1,1 @@
+<p>The Java Runtime Environment (JRE) is necessary to execute Java programs. To check which version of JRE you have, follow the steps below.</p>

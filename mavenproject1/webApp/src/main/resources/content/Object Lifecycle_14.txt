@@ -1,0 +1,1 @@
+<p>You may ask why we need this clone method. Couldn't I create a constructor and just passing in the same object, and do the copying variable by variable? Let's see:</p>

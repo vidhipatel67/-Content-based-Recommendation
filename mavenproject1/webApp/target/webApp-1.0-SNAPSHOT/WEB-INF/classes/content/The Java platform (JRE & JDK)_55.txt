@@ -1,0 +1,1 @@
+<p>With Java 1.5 a set of monitoring and management tools have been added to the JDK, in addition to a set of troubleshooting tools.</p>

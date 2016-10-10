@@ -1,0 +1,1 @@
+<p>The actual type will be defined by the type of the method parameter. Hence, the generic type can't be defined only for the return value as it wouldn't be resolved. See the <a href="#Class.3CT.3E">Class&lt;T&gt;</a> section for a solution.</p>

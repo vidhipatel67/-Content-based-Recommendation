@@ -1,0 +1,1 @@
+<p><code>Set</code> cannot have duplicates in it. You may wonder how duplicates are detected when we are adding an object to the <code>Set</code>. We have to see if that object exists in the Set or not. It is not enough to check the object references, the objects' values have to be checked as well.</p>

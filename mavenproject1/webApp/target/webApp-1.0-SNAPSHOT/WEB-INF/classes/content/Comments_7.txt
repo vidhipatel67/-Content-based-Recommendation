@@ -1,0 +1,1 @@
+<p>An end-of-line comment starts with two slashes and ends with the end of the line. This syntax can be used on a single line too.</p>

@@ -1,0 +1,1 @@
+<p>When initializing a button, it is necessary to define what text will appear on that button in the given parameter. In this example, the button is initialized with the word "Submit" printed on it. Adding the button to the actual layout is done in the <code>init()</code> method, as described above.</p>

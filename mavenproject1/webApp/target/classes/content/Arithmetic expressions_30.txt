@@ -1,0 +1,1 @@
+<p>The shift operators are used to shift the bits to the left or right, which is also a quick way to multiply/divide by two:</p>

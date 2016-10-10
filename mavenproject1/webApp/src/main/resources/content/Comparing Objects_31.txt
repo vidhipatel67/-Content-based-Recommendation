@@ -1,0 +1,1 @@
+<p>Sorts the specified array of <code>Customer</code> objects (customerArray) according to the order induced by the specified comparator. All elements in the array must be mutually comparable by the specified comparator.</p>

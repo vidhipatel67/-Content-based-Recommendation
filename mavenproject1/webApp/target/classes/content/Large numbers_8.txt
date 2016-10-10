@@ -1,0 +1,1 @@
+<p><code>BigInteger</code> cannot use the normal <a href="/wiki/Java_Programming/Mathematical_functions" title="Java Programming/Mathematical functions">Java operators</a>. They use the methods provided by the class.</p>

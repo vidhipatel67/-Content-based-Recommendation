@@ -1,0 +1,1 @@
+<p>On the <code>+</code> operation a new <code><strong class="selflink">String</strong></code> object is created at each iteration. Suppose <code>words</code> contains the elements <code>["Foo", "Bar", "Bam", "Baz"]</code>. At runtime, the method creates thirteen <code>String</code>s:</p>

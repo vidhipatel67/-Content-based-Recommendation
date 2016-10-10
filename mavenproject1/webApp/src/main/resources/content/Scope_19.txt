@@ -1,0 +1,1 @@
+<p>In the <a href="#code-section-51">code section 3.51</a>, the <code>setName()</code> method will only change the value of <code>name</code> if the new name is not null. Because <code>setName()</code> is conditionally changing name, it is wise to return a boolean to let the program know if the change was successful.</p>

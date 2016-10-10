@@ -1,0 +1,1 @@
+<p>This layout places one big component in the center and up till four components at the edges. When adding to the container with this layout, you need to specify the location as the second parameter like <code>BorderLayout.CENTER</code> for the center or one of the world directions for the edge (<code>BorderLayout.NORTH</code> points to the top edge).</p>

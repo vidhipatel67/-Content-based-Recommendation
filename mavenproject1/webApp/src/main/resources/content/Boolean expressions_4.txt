@@ -1,0 +1,1 @@
+<p>Java has several operators that can be used to compare variables. For example, how would you tell if one variable has a greater value than another? The answer: use the "greater-than" operator.</p>

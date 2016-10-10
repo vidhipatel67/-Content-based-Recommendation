@@ -1,0 +1,1 @@
+<p>This means that the <code>catch</code> block order is important. As a consequence, you can't put a <code>catch</code> block that catches all the exception (which take a <code>java.lang.Exception</code> as parameter) before a <code>catch</code> block that catches a more specific exception as the second block could never be executed.</p>

@@ -1,0 +1,1 @@
+<p>2<br> A class derived from the <code style="border-bottom:dashed red 1px;">Object</code> class is not viable as a visible component, whereas a class derived from a <code style="border-bottom:dashed red 1px;">Component</code> class is a visible entity atop a <code style="border-bottom:dashed red 1px;">Container</code> hence a likely candidate for displaying drawings.</p>

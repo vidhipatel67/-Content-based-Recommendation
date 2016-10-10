@@ -1,0 +1,1 @@
+<p>The stack trace can be printed to the standard error by calling the <code>public void printStackTrace()</code> method of an exception.</p>

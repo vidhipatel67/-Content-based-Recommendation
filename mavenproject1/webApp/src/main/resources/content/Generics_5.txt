@@ -1,0 +1,1 @@
+<p>This ensures that, only <code>Integer</code> objects can be put in the field and a <code>ClassCastException</code> can't occur at runtime, only compile-time error can occur. Unfortunately, it can be used only with <code>Integer</code> objects. If you want to use the same class in another context with <code>String</code>s, you have to generalize the type like this:</p>

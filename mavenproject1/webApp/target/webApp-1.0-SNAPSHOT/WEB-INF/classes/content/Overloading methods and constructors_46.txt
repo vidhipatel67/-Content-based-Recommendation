@@ -1,0 +1,1 @@
+<p>The implementation of this method is searched using the <u>instantiated</u> type of the called object (<code>obj</code>) and the <u>declared</u> type of the parameter object (<code>myParameter</code>).</p>

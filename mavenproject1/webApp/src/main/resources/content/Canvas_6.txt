@@ -1,0 +1,1 @@
+<p>Let me break it down for you. A component in the Java language is a class that has been derived from the <code style="border-bottom:dashed red 1px;">Component</code> class. Each component has a method with a signature <code style="border-bottom:dashed green 1px;">paint(Graphics)</code> which can be overridden to manually draw something atop it.</p>

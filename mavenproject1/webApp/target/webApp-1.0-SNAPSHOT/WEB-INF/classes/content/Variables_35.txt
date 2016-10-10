@@ -1,0 +1,1 @@
+<p>Now you can tell what's happening, can't you? However, before we continue, notice the <i>case</i> of the variables. If a word contains CAPITAL LETTERS, it is in <b>UPPER CASE</b>. If a word has small letters, it is in <b>lower case</b>. Both cases in a word renders it as <b>mIxEd CaSe</b>.</p>

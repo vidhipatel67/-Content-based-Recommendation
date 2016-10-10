@@ -1,0 +1,1 @@
+<p>The old way of error handling was to let each function return an error code then let the caller check what was returned. The problem with this method was that if the return code was full of error-checking codes, this got in the way of the original one that was doing the actual work, which in turn did not make it very readable.</p>

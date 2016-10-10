@@ -1,0 +1,1 @@
+<p>The code is similar with Java arrays, as illustrated in the example below that takes the sum of all the elements in an array.</p>

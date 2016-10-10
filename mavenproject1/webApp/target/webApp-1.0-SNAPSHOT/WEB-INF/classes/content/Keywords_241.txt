@@ -1,0 +1,1 @@
+<p><code><a href="/wiki/Java_Programming/Keywords/short" title="Java Programming/Keywords/short"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">short</font></a></code> is a keyword. It defines a 16 bit signed integer <a href="/wiki/Java_Programming/Primitive_Types" title="Java Programming/Primitive Types">primitive type.</a></p>

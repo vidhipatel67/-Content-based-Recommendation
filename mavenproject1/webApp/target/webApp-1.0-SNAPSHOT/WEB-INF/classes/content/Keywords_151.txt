@@ -1,0 +1,1 @@
+<p>The general syntax of a <code><a href="/wiki/Java_Programming/Keywords/for" title="Java Programming/Keywords/for"><font style="color:DodgerBlue4; text-decoration: none; font-weight: bold;">for</font></a></code>, using <a href="/wiki/Programming_Languages/Syntax_Specification" title="Programming Languages/Syntax Specification">Extended Backus-Naur Form</a>, is</p>

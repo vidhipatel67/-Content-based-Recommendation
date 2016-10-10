@@ -1,0 +1,1 @@
+<p>We see that only the <code>TreeMap</code> has sorted the keys. Beware of the generics. The Map interface is tricky. The methods <code>get()</code> and <code>remove()</code> are not generic. This means that you must be careful of the type of the key:</p>
